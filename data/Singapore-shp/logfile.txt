@@ -1,0 +1,1796 @@
+Memory used for node coordinates storage (approximate):
+  for positive IDs: 258 MiB
+  for negative IDs: 16463 MiB
+warning building way geometry for way 22932590: contains position (103.839,1.30618) twice
+Ignoring illegal geometry for way 23446401.
+warning building way geometry for way 32760126: contains position (103.899,1.4092) twice
+warning building way geometry for way 33764211: contains position (103.94,1.35765) twice
+warning building way geometry for way 33764211: contains position (103.94,1.35765) twice
+warning building way geometry for way 34915780: contains position (103.837,1.27884) twice
+warning building way geometry for way 37435720: contains position (103.848,1.36996) twice
+warning building way geometry for way 41913741: contains position (103.805,1.289) twice
+warning building way geometry for way 41913741: contains position (103.805,1.289) twice
+warning building way geometry for way 41913741: contains position (103.805,1.289) twice
+warning building way geometry for way 41913741: contains position (103.805,1.28901) twice
+warning building way geometry for way 46539542: contains position (103.856,1.30256) twice
+Ignoring illegal geometry for way 46594818.
+warning building way geometry for way 46595139: contains position (103.859,1.29313) twice
+warning building way geometry for way 46821381: contains position (103.943,1.34457) twice
+warning building way geometry for way 47345004: contains position (103.851,1.28159) twice
+warning building way geometry for way 47415663: contains position (103.835,1.27985) twice
+warning building way geometry for way 47415669: contains position (103.835,1.27985) twice
+warning building way geometry for way 48842969: contains position (103.786,1.37079) twice
+error building way geometry for way 53819092: must at least contain two nodes
+Ignoring illegal geometry for way 53819092.
+error building way geometry for way 53819103: must at least contain two nodes
+Ignoring illegal geometry for way 53819103.
+error building way geometry for way 53819134: must at least contain two nodes
+Ignoring illegal geometry for way 53819134.
+error building way geometry for way 53819140: must at least contain two nodes
+Ignoring illegal geometry for way 53819140.
+error building way geometry for way 81244574: must at least contain two nodes
+Ignoring illegal geometry for way 81244574.
+warning building way geometry for way 87936189: contains position (103.705,1.34118) twice
+warning building way geometry for way 94904687: contains position (103.809,1.27087) twice
+error building way geometry for way 94904687: must at least contain two different points
+Ignoring illegal geometry for way 94904687.
+error building way geometry for way 97903134: must at least contain two nodes
+Ignoring illegal geometry for way 97903134.
+Ignoring illegal geometry for way 97947023.
+Ignoring illegal geometry for way 98093175.
+error building way geometry for way 98093733: must at least contain two nodes
+Ignoring illegal geometry for way 98093733.
+warning building way geometry for way 99449009: contains position (103.719,1.34911) twice
+warning building way geometry for way 102673089: contains position (103.854,1.37521) twice
+Ignoring illegal geometry for way 103410978.
+warning building way geometry for way 103541954: contains position (103.78,1.30806) twice
+warning building way geometry for way 103541954: contains position (103.78,1.30807) twice
+warning building way geometry for way 103542022: contains position (103.781,1.30759) twice
+warning building way geometry for way 103542022: contains position (103.781,1.30749) twice
+warning building way geometry for way 103542026: contains position (103.779,1.30831) twice
+warning building way geometry for way 103542026: contains position (103.779,1.3083) twice
+warning building way geometry for way 103542046: contains position (103.781,1.30759) twice
+warning building way geometry for way 103542092: contains position (103.779,1.30919) twice
+warning building way geometry for way 103542092: contains position (103.779,1.30884) twice
+warning building way geometry for way 103542100: contains position (103.781,1.3078) twice
+warning building way geometry for way 104660492: contains position (103.781,1.30851) twice
+warning building way geometry for way 104660552: contains position (103.781,1.30787) twice
+warning building way geometry for way 104660578: contains position (103.779,1.30873) twice
+warning building way geometry for way 104660578: contains position (103.779,1.30867) twice
+warning building way geometry for way 104660581: contains position (103.781,1.3078) twice
+warning building way geometry for way 104660596: contains position (103.779,1.30967) twice
+warning building way geometry for way 104660687: contains position (103.78,1.30695) twice
+warning building way geometry for way 104660698: contains position (103.777,1.311) twice
+warning building way geometry for way 104660727: contains position (103.779,1.30831) twice
+warning building way geometry for way 104660743: contains position (103.781,1.30749) twice
+warning building way geometry for way 104660745: contains position (103.776,1.31223) twice
+warning building way geometry for way 104660753: contains position (103.778,1.31061) twice
+warning building way geometry for way 104660940: contains position (103.779,1.30873) twice
+warning building way geometry for way 104660946: contains position (103.778,1.30859) twice
+warning building way geometry for way 104660963: contains position (103.778,1.31019) twice
+warning building way geometry for way 104660981: contains position (103.778,1.31024) twice
+warning building way geometry for way 104660988: contains position (103.778,1.30815) twice
+warning building way geometry for way 104660992: contains position (103.78,1.30855) twice
+warning building way geometry for way 104661033: contains position (103.781,1.30851) twice
+warning building way geometry for way 104661043: contains position (103.781,1.30875) twice
+warning building way geometry for way 104661133: contains position (103.779,1.3083) twice
+warning building way geometry for way 104661150: contains position (103.778,1.31026) twice
+warning building way geometry for way 104661152: contains position (103.779,1.30957) twice
+warning building way geometry for way 104661165: contains position (103.78,1.30695) twice
+warning building way geometry for way 104661171: contains position (103.78,1.30941) twice
+warning building way geometry for way 104661188: contains position (103.779,1.30911) twice
+warning building way geometry for way 104661189: contains position (103.779,1.30917) twice
+warning building way geometry for way 104661263: contains position (103.78,1.30794) twice
+warning building way geometry for way 104661282: contains position (103.779,1.30883) twice
+warning building way geometry for way 104661282: contains position (103.779,1.30867) twice
+warning building way geometry for way 104661289: contains position (103.779,1.30979) twice
+warning building way geometry for way 105497260: contains position (103.871,1.35603) twice
+warning building way geometry for way 105826509: contains position (103.753,1.31742) twice
+warning building way geometry for way 108576080: contains position (103.819,1.25722) twice
+warning building way geometry for way 109827050: contains position (103.668,1.40783) twice
+warning building way geometry for way 111151547: contains position (103.814,1.28549) twice
+warning building way geometry for way 111151547: contains position (103.814,1.28542) twice
+warning building way geometry for way 111151591: contains position (103.807,1.28756) twice
+warning building way geometry for way 116800997: contains position (103.862,1.27986) twice
+warning building way geometry for way 116800997: contains position (103.862,1.28001) twice
+warning building way geometry for way 116800997: contains position (103.862,1.27998) twice
+warning building way geometry for way 116800997: contains position (103.862,1.28006) twice
+Ignoring illegal geometry for way 116801009.
+warning building way geometry for way 116818220: contains position (103.824,1.24976) twice
+warning building way geometry for way 116818227: contains position (103.819,1.25579) twice
+error building way geometry for way 117442598: must at least contain two nodes
+Ignoring illegal geometry for way 117442598.
+Ignoring illegal geometry for way 119011842.
+error building way geometry for way 119011901: must at least contain two nodes
+Ignoring illegal geometry for way 119011901.
+error building way geometry for way 119024324: must at least contain two nodes
+Ignoring illegal geometry for way 119024324.
+error building way geometry for way 121102334: must at least contain two nodes
+Ignoring illegal geometry for way 121102334.
+warning building way geometry for way 121516443: contains position (103.845,1.32131) twice
+warning building way geometry for way 121874739: contains position (103.884,1.30857) twice
+warning building way geometry for way 121883611: contains position (103.823,1.25426) twice
+warning building way geometry for way 121883611: contains position (103.823,1.25426) twice
+warning building way geometry for way 121883611: contains position (103.823,1.25426) twice
+warning building way geometry for way 121883611: contains position (103.822,1.25338) twice
+warning building way geometry for way 121883611: contains position (103.822,1.25338) twice
+warning building way geometry for way 121883611: contains position (103.822,1.25338) twice
+warning building way geometry for way 121883611: contains position (103.822,1.25348) twice
+warning building way geometry for way 121883611: contains position (103.822,1.25348) twice
+warning building way geometry for way 121883611: contains position (103.822,1.25348) twice
+warning building way geometry for way 121883611: contains position (103.822,1.25348) twice
+error building way geometry for way 121970237: must at least contain two nodes
+Ignoring illegal geometry for way 121970237.
+warning building way geometry for way 122670627: contains position (103.874,1.33538) twice
+warning building way geometry for way 124416268: contains position (103.774,1.30499) twice
+warning building way geometry for way 124962630: contains position (103.783,1.31281) twice
+warning building way geometry for way 126950334: contains position (103.82,1.30722) twice
+warning building way geometry for way 127844369: contains position (103.83,1.36665) twice
+warning building way geometry for way 129896165: contains position (103.9,1.29749) twice
+warning building way geometry for way 129896165: contains position (103.9,1.29767) twice
+warning building way geometry for way 139678619: contains position (103.879,1.34885) twice
+warning building way geometry for way 139974326: contains position (103.771,1.29954) twice
+warning building way geometry for way 139979121: contains position (103.771,1.29995) twice
+warning building way geometry for way 142077784: contains position (103.771,1.29489) twice
+warning building way geometry for way 142077984: contains position (103.771,1.29485) twice
+warning building way geometry for way 142078783: contains position (103.772,1.29488) twice
+warning building way geometry for way 142254592: contains position (103.795,1.3926) twice
+warning building way geometry for way 142254592: contains position (103.796,1.39463) twice
+warning building way geometry for way 142254592: contains position (103.796,1.39482) twice
+warning building way geometry for way 142254592: contains position (103.796,1.39494) twice
+warning building way geometry for way 142254592: contains position (103.796,1.39496) twice
+warning building way geometry for way 142254592: contains position (103.796,1.39496) twice
+warning building way geometry for way 142254592: contains position (103.796,1.39498) twice
+warning building way geometry for way 142254592: contains position (103.797,1.39511) twice
+error building way geometry for way 143940807: must at least contain two nodes
+Ignoring illegal geometry for way 143940807.
+warning building way geometry for way 146667513: contains position (103.781,1.3148) twice
+warning building way geometry for way 147649218: contains position (103.721,1.40153) twice
+error building way geometry for way 148544425: must at least contain two nodes
+Ignoring illegal geometry for way 148544425.
+error building way geometry for way 148656879: must at least contain two nodes
+Ignoring illegal geometry for way 148656879.
+warning building way geometry for way 149944593: contains position (103.944,1.38517) twice
+error building way geometry for way 149944593: must at least contain two different points
+Ignoring illegal geometry for way 149944593.
+error building way geometry for way 151197725: must at least contain two nodes
+Ignoring illegal geometry for way 151197725.
+warning building way geometry for way 152771290: contains position (103.806,1.31378) twice
+warning building way geometry for way 152771290: contains position (103.807,1.31388) twice
+warning building way geometry for way 152771290: contains position (103.807,1.31397) twice
+warning building way geometry for way 152771290: contains position (103.807,1.31405) twice
+warning building way geometry for way 152771292: contains position (103.807,1.31449) twice
+warning building way geometry for way 153335279: contains position (103.843,1.24697) twice
+warning building way geometry for way 153335279: contains position (103.843,1.24704) twice
+warning building way geometry for way 153335279: contains position (103.843,1.24713) twice
+warning building way geometry for way 153335279: contains position (103.843,1.24721) twice
+warning building way geometry for way 153335279: contains position (103.843,1.24735) twice
+warning building way geometry for way 153335279: contains position (103.843,1.24749) twice
+warning building way geometry for way 153335279: contains position (103.843,1.2475) twice
+warning building way geometry for way 153335279: contains position (103.843,1.24761) twice
+warning building way geometry for way 153335279: contains position (103.843,1.24765) twice
+warning building way geometry for way 153335279: contains position (103.843,1.24781) twice
+warning building way geometry for way 153335279: contains position (103.842,1.24781) twice
+warning building way geometry for way 153335279: contains position (103.842,1.24792) twice
+warning building way geometry for way 153335279: contains position (103.842,1.24799) twice
+warning building way geometry for way 153335279: contains position (103.842,1.248) twice
+warning building way geometry for way 153335279: contains position (103.842,1.24809) twice
+warning building way geometry for way 153335279: contains position (103.842,1.24806) twice
+warning building way geometry for way 153339811: contains position (103.839,1.24725) twice
+error building way geometry for way 153946455: must at least contain two nodes
+Ignoring illegal geometry for way 153946455.
+error building way geometry for way 153946477: must at least contain two nodes
+Ignoring illegal geometry for way 153946477.
+warning building way geometry for way 154328217: contains position (103.8,1.43347) twice
+warning building way geometry for way 154418183: contains position (103.835,1.30838) twice
+warning building way geometry for way 154493304: contains position (103.828,1.30874) twice
+warning building way geometry for way 154493304: contains position (103.828,1.30864) twice
+warning building way geometry for way 154493306: contains position (103.829,1.30701) twice
+warning building way geometry for way 155024595: contains position (103.846,1.37388) twice
+warning building way geometry for way 155980025: contains position (103.852,1.29222) twice
+warning building way geometry for way 155980025: contains position (103.852,1.29215) twice
+warning building way geometry for way 155980025: contains position (103.852,1.29225) twice
+warning building way geometry for way 155980025: contains position (103.852,1.29232) twice
+warning building way geometry for way 155986465: contains position (103.853,1.29818) twice
+warning building way geometry for way 155986468: contains position (103.851,1.29804) twice
+warning building way geometry for way 155988210: contains position (103.86,1.29351) twice
+warning building way geometry for way 155988210: contains position (103.86,1.29357) twice
+warning building way geometry for way 155988210: contains position (103.861,1.29337) twice
+warning building way geometry for way 157966185: contains position (103.864,1.38837) twice
+warning building way geometry for way 157966317: contains position (103.865,1.38803) twice
+warning building way geometry for way 157967252: contains position (103.867,1.38815) twice
+warning building way geometry for way 157967253: contains position (103.867,1.3882) twice
+warning building way geometry for way 157971233: contains position (103.867,1.38774) twice
+warning building way geometry for way 157971234: contains position (103.867,1.38774) twice
+warning building way geometry for way 157974643: contains position (103.867,1.38809) twice
+warning building way geometry for way 157976892: contains position (103.864,1.38881) twice
+warning building way geometry for way 157976981: contains position (103.864,1.38866) twice
+warning building way geometry for way 157978642: contains position (103.865,1.38888) twice
+warning building way geometry for way 157993750: contains position (103.865,1.38787) twice
+warning building way geometry for way 157995857: contains position (103.866,1.38698) twice
+warning building way geometry for way 157996190: contains position (103.866,1.38709) twice
+warning building way geometry for way 157997424: contains position (103.866,1.38751) twice
+warning building way geometry for way 157997676: contains position (103.866,1.38741) twice
+warning building way geometry for way 157997676: contains position (103.866,1.38741) twice
+warning building way geometry for way 157998015: contains position (103.866,1.38735) twice
+warning building way geometry for way 158003687: contains position (103.868,1.38773) twice
+warning building way geometry for way 158003687: contains position (103.868,1.38771) twice
+warning building way geometry for way 158004152: contains position (103.868,1.38742) twice
+warning building way geometry for way 158174677: contains position (103.867,1.38719) twice
+warning building way geometry for way 158175781: contains position (103.867,1.38707) twice
+warning building way geometry for way 158177981: contains position (103.867,1.38698) twice
+warning building way geometry for way 158212560: contains position (103.839,1.29797) twice
+warning building way geometry for way 158305273: contains position (103.843,1.38238) twice
+warning building way geometry for way 158305275: contains position (103.843,1.38192) twice
+warning building way geometry for way 158305275: contains position (103.843,1.38178) twice
+warning building way geometry for way 158305275: contains position (103.843,1.38195) twice
+warning building way geometry for way 158305378: contains position (103.842,1.38332) twice
+warning building way geometry for way 158305378: contains position (103.841,1.38346) twice
+warning building way geometry for way 158305809: contains position (103.872,1.39433) twice
+warning building way geometry for way 158305809: contains position (103.872,1.39447) twice
+warning building way geometry for way 158305809: contains position (103.872,1.39447) twice
+warning building way geometry for way 158305809: contains position (103.872,1.39465) twice
+warning building way geometry for way 158305809: contains position (103.873,1.39466) twice
+warning building way geometry for way 158305809: contains position (103.872,1.39431) twice
+warning building way geometry for way 158305809: contains position (103.872,1.39431) twice
+warning building way geometry for way 158306324: contains position (103.868,1.38682) twice
+warning building way geometry for way 158309918: contains position (103.868,1.38314) twice
+warning building way geometry for way 158309924: contains position (103.867,1.38353) twice
+warning building way geometry for way 158310059: contains position (103.868,1.38401) twice
+warning building way geometry for way 158310155: contains position (103.868,1.38585) twice
+warning building way geometry for way 158310156: contains position (103.868,1.38543) twice
+warning building way geometry for way 158310745: contains position (103.866,1.38656) twice
+warning building way geometry for way 158314821: contains position (103.867,1.386) twice
+warning building way geometry for way 158314823: contains position (103.867,1.38594) twice
+warning building way geometry for way 158314930: contains position (103.867,1.38549) twice
+warning building way geometry for way 158314997: contains position (103.867,1.38549) twice
+warning building way geometry for way 158314998: contains position (103.867,1.38545) twice
+warning building way geometry for way 158315098: contains position (103.867,1.38558) twice
+warning building way geometry for way 158315098: contains position (103.867,1.38558) twice
+warning building way geometry for way 158315099: contains position (103.866,1.38544) twice
+warning building way geometry for way 158315304: contains position (103.867,1.38552) twice
+warning building way geometry for way 158315860: contains position (103.867,1.38462) twice
+warning building way geometry for way 158315946: contains position (103.867,1.38457) twice
+warning building way geometry for way 158316035: contains position (103.867,1.38495) twice
+warning building way geometry for way 158316248: contains position (103.867,1.38429) twice
+warning building way geometry for way 158316517: contains position (103.866,1.38434) twice
+warning building way geometry for way 158316518: contains position (103.865,1.38449) twice
+warning building way geometry for way 158316853: contains position (103.866,1.38424) twice
+warning building way geometry for way 158316910: contains position (103.866,1.38476) twice
+warning building way geometry for way 158317889: contains position (103.865,1.38524) twice
+warning building way geometry for way 158318390: contains position (103.865,1.386) twice
+warning building way geometry for way 158319626: contains position (103.865,1.38581) twice
+warning building way geometry for way 158320066: contains position (103.865,1.38641) twice
+warning building way geometry for way 158320190: contains position (103.865,1.38657) twice
+warning building way geometry for way 158320254: contains position (103.864,1.38645) twice
+warning building way geometry for way 158320659: contains position (103.864,1.38564) twice
+warning building way geometry for way 158321420: contains position (103.863,1.38609) twice
+warning building way geometry for way 158321421: contains position (103.863,1.38637) twice
+warning building way geometry for way 158321421: contains position (103.862,1.38616) twice
+warning building way geometry for way 158321421: contains position (103.862,1.38615) twice
+warning building way geometry for way 158321421: contains position (103.862,1.38638) twice
+warning building way geometry for way 158322071: contains position (103.863,1.38628) twice
+warning building way geometry for way 158322949: contains position (103.864,1.38714) twice
+warning building way geometry for way 158323156: contains position (103.863,1.38751) twice
+warning building way geometry for way 158324409: contains position (103.863,1.38685) twice
+warning building way geometry for way 158324416: contains position (103.863,1.38688) twice
+warning building way geometry for way 158324420: contains position (103.863,1.38659) twice
+warning building way geometry for way 158324420: contains position (103.863,1.38654) twice
+warning building way geometry for way 158324421: contains position (103.863,1.38663) twice
+warning building way geometry for way 158325128: contains position (103.866,1.38371) twice
+warning building way geometry for way 158325131: contains position (103.867,1.38256) twice
+warning building way geometry for way 158325132: contains position (103.867,1.3829) twice
+warning building way geometry for way 158325133: contains position (103.867,1.38299) twice
+warning building way geometry for way 158325147: contains position (103.867,1.38365) twice
+warning building way geometry for way 158325150: contains position (103.866,1.38336) twice
+warning building way geometry for way 158326092: contains position (103.867,1.38307) twice
+warning building way geometry for way 158326092: contains position (103.867,1.383) twice
+warning building way geometry for way 158326103: contains position (103.866,1.3832) twice
+warning building way geometry for way 158326382: contains position (103.866,1.38287) twice
+warning building way geometry for way 158329174: contains position (103.865,1.38387) twice
+warning building way geometry for way 158329176: contains position (103.865,1.38356) twice
+warning building way geometry for way 158329176: contains position (103.865,1.38341) twice
+warning building way geometry for way 158329176: contains position (103.865,1.38347) twice
+warning building way geometry for way 158329218: contains position (103.865,1.38375) twice
+warning building way geometry for way 158330744: contains position (103.867,1.38186) twice
+warning building way geometry for way 158330745: contains position (103.868,1.3811) twice
+warning building way geometry for way 158330804: contains position (103.866,1.38204) twice
+warning building way geometry for way 158330812: contains position (103.867,1.38247) twice
+warning building way geometry for way 158331690: contains position (103.867,1.38142) twice
+warning building way geometry for way 158331692: contains position (103.867,1.38142) twice
+warning building way geometry for way 158333678: contains position (103.866,1.38036) twice
+warning building way geometry for way 158333681: contains position (103.867,1.38026) twice
+warning building way geometry for way 158374757: contains position (103.867,1.38003) twice
+warning building way geometry for way 158374760: contains position (103.867,1.37987) twice
+warning building way geometry for way 158374760: contains position (103.867,1.37987) twice
+warning building way geometry for way 158374803: contains position (103.866,1.37989) twice
+warning building way geometry for way 158377967: contains position (103.867,1.37974) twice
+warning building way geometry for way 158377969: contains position (103.867,1.37976) twice
+warning building way geometry for way 158377977: contains position (103.867,1.37975) twice
+warning building way geometry for way 158387334: contains position (103.866,1.38177) twice
+warning building way geometry for way 158463367: contains position (103.864,1.38488) twice
+warning building way geometry for way 158463368: contains position (103.863,1.3855) twice
+warning building way geometry for way 158463368: contains position (103.863,1.38536) twice
+warning building way geometry for way 158463372: contains position (103.864,1.3851) twice
+warning building way geometry for way 158463385: contains position (103.864,1.38495) twice
+warning building way geometry for way 158463802: contains position (103.862,1.38571) twice
+warning building way geometry for way 158466411: contains position (103.86,1.38237) twice
+warning building way geometry for way 158467094: contains position (103.861,1.38272) twice
+warning building way geometry for way 158527968: contains position (103.862,1.38704) twice
+warning building way geometry for way 158531743: contains position (103.86,1.38903) twice
+warning building way geometry for way 158531744: contains position (103.861,1.38883) twice
+warning building way geometry for way 158531746: contains position (103.862,1.38865) twice
+warning building way geometry for way 158531746: contains position (103.862,1.38863) twice
+warning building way geometry for way 158539559: contains position (103.859,1.39032) twice
+warning building way geometry for way 158539564: contains position (103.864,1.38435) twice
+error building way geometry for way 158852174: must at least contain two nodes
+Ignoring illegal geometry for way 158852174.
+warning building way geometry for way 158981404: contains position (103.873,1.3972) twice
+warning building way geometry for way 158981447: contains position (103.87,1.39978) twice
+warning building way geometry for way 158983383: contains position (103.874,1.39659) twice
+warning building way geometry for way 158983390: contains position (103.871,1.39971) twice
+warning building way geometry for way 159007506: contains position (103.874,1.3924) twice
+warning building way geometry for way 159007506: contains position (103.874,1.39235) twice
+warning building way geometry for way 159007513: contains position (103.874,1.39247) twice
+warning building way geometry for way 159007526: contains position (103.873,1.39202) twice
+warning building way geometry for way 159007528: contains position (103.873,1.39202) twice
+warning building way geometry for way 159007528: contains position (103.873,1.39204) twice
+warning building way geometry for way 159007528: contains position (103.873,1.39202) twice
+warning building way geometry for way 159007528: contains position (103.873,1.39187) twice
+warning building way geometry for way 159012973: contains position (103.875,1.39131) twice
+warning building way geometry for way 159012977: contains position (103.875,1.39154) twice
+warning building way geometry for way 159012977: contains position (103.875,1.39131) twice
+warning building way geometry for way 159012986: contains position (103.875,1.39243) twice
+warning building way geometry for way 159012986: contains position (103.875,1.39243) twice
+warning building way geometry for way 159012986: contains position (103.875,1.39233) twice
+warning building way geometry for way 159012991: contains position (103.875,1.39243) twice
+warning building way geometry for way 159012991: contains position (103.875,1.39216) twice
+warning building way geometry for way 159012991: contains position (103.875,1.39213) twice
+warning building way geometry for way 159012999: contains position (103.874,1.39149) twice
+warning building way geometry for way 159012999: contains position (103.874,1.39145) twice
+warning building way geometry for way 159012999: contains position (103.874,1.39149) twice
+warning building way geometry for way 159013002: contains position (103.873,1.39148) twice
+warning building way geometry for way 159013002: contains position (103.873,1.3915) twice
+warning building way geometry for way 159013623: contains position (103.874,1.3905) twice
+warning building way geometry for way 159013623: contains position (103.874,1.38949) twice
+warning building way geometry for way 159026526: contains position (103.877,1.38221) twice
+warning building way geometry for way 159134664: contains position (103.899,1.41557) twice
+warning building way geometry for way 159135038: contains position (103.905,1.4144) twice
+warning building way geometry for way 159135584: contains position (103.902,1.41582) twice
+warning building way geometry for way 159135584: contains position (103.902,1.41579) twice
+warning building way geometry for way 159135584: contains position (103.902,1.41578) twice
+warning building way geometry for way 159138943: contains position (103.868,1.38209) twice
+warning building way geometry for way 159139436: contains position (103.868,1.38223) twice
+warning building way geometry for way 159139442: contains position (103.868,1.38254) twice
+warning building way geometry for way 159139680: contains position (103.869,1.38176) twice
+warning building way geometry for way 159140507: contains position (103.87,1.38279) twice
+warning building way geometry for way 159140507: contains position (103.87,1.38275) twice
+warning building way geometry for way 159153534: contains position (103.869,1.38546) twice
+warning building way geometry for way 159154125: contains position (103.869,1.38468) twice
+warning building way geometry for way 159154129: contains position (103.869,1.38368) twice
+warning building way geometry for way 159155161: contains position (103.87,1.38445) twice
+warning building way geometry for way 159155163: contains position (103.869,1.38409) twice
+warning building way geometry for way 159155163: contains position (103.869,1.38409) twice
+warning building way geometry for way 159155212: contains position (103.869,1.38401) twice
+warning building way geometry for way 159155704: contains position (103.87,1.38412) twice
+warning building way geometry for way 159155712: contains position (103.87,1.38367) twice
+warning building way geometry for way 159157427: contains position (103.87,1.38565) twice
+warning building way geometry for way 159173105: contains position (103.874,1.38588) twice
+warning building way geometry for way 159173114: contains position (103.871,1.38409) twice
+warning building way geometry for way 159173116: contains position (103.871,1.38482) twice
+warning building way geometry for way 159173277: contains position (103.872,1.38697) twice
+warning building way geometry for way 159173393: contains position (103.874,1.38588) twice
+warning building way geometry for way 159173453: contains position (103.871,1.38482) twice
+warning building way geometry for way 159173461: contains position (103.871,1.38626) twice
+warning building way geometry for way 159296685: contains position (103.871,1.38441) twice
+warning building way geometry for way 159299816: contains position (103.872,1.38442) twice
+warning building way geometry for way 159417347: contains position (103.842,1.24367) twice
+warning building way geometry for way 159417347: contains position (103.842,1.2435) twice
+warning building way geometry for way 159421379: contains position (103.844,1.24901) twice
+warning building way geometry for way 159421379: contains position (103.844,1.24898) twice
+warning building way geometry for way 159558700: contains position (103.844,1.24818) twice
+warning building way geometry for way 159637741: contains position (103.817,1.2555) twice
+warning building way geometry for way 159684835: contains position (103.805,1.3128) twice
+warning building way geometry for way 159684835: contains position (103.805,1.31287) twice
+warning building way geometry for way 159684835: contains position (103.805,1.31293) twice
+warning building way geometry for way 159684835: contains position (103.805,1.31302) twice
+warning building way geometry for way 159684835: contains position (103.805,1.31303) twice
+warning building way geometry for way 159684835: contains position (103.805,1.31304) twice
+warning building way geometry for way 159746874: contains position (103.845,1.24936) twice
+warning building way geometry for way 159746875: contains position (103.845,1.24969) twice
+warning building way geometry for way 159746877: contains position (103.844,1.25028) twice
+warning building way geometry for way 159746879: contains position (103.844,1.25019) twice
+warning building way geometry for way 159746881: contains position (103.845,1.24925) twice
+warning building way geometry for way 159746881: contains position (103.845,1.24921) twice
+warning building way geometry for way 159746882: contains position (103.845,1.24971) twice
+warning building way geometry for way 159746883: contains position (103.845,1.25014) twice
+warning building way geometry for way 159746884: contains position (103.845,1.2502) twice
+warning building way geometry for way 159746885: contains position (103.845,1.24984) twice
+warning building way geometry for way 159746886: contains position (103.845,1.24896) twice
+warning building way geometry for way 159746887: contains position (103.844,1.25005) twice
+warning building way geometry for way 159913002: contains position (103.843,1.25022) twice
+warning building way geometry for way 159913009: contains position (103.843,1.25032) twice
+warning building way geometry for way 159913017: contains position (103.843,1.2497) twice
+warning building way geometry for way 159913027: contains position (103.844,1.24924) twice
+warning building way geometry for way 159913039: contains position (103.844,1.24964) twice
+warning building way geometry for way 159913051: contains position (103.844,1.24948) twice
+warning building way geometry for way 159913051: contains position (103.844,1.24954) twice
+warning building way geometry for way 160091608: contains position (103.843,1.24925) twice
+warning building way geometry for way 160091610: contains position (103.844,1.24851) twice
+warning building way geometry for way 160091614: contains position (103.844,1.24875) twice
+warning building way geometry for way 160091614: contains position (103.843,1.24883) twice
+warning building way geometry for way 160091614: contains position (103.843,1.24879) twice
+warning building way geometry for way 160091614: contains position (103.843,1.24872) twice
+warning building way geometry for way 160118881: contains node -1000139198 twice
+warning building way geometry for way 160164255: contains position (103.843,1.24822) twice
+warning building way geometry for way 160164259: contains position (103.843,1.24857) twice
+warning building way geometry for way 160164260: contains position (103.842,1.24886) twice
+warning building way geometry for way 160164260: contains position (103.842,1.24885) twice
+warning building way geometry for way 160270760: contains position (103.846,1.25104) twice
+warning building way geometry for way 160270760: contains position (103.846,1.25099) twice
+warning building way geometry for way 160270764: contains position (103.846,1.25086) twice
+warning building way geometry for way 160270774: contains position (103.845,1.25127) twice
+warning building way geometry for way 160270775: contains position (103.846,1.25073) twice
+warning building way geometry for way 160270775: contains position (103.846,1.25093) twice
+warning building way geometry for way 160270781: contains position (103.846,1.25119) twice
+warning building way geometry for way 160270788: contains position (103.845,1.25093) twice
+warning building way geometry for way 160273107: contains position (103.844,1.25122) twice
+warning building way geometry for way 160273107: contains position (103.844,1.2511) twice
+warning building way geometry for way 160273110: contains position (103.844,1.25125) twice
+warning building way geometry for way 160273110: contains position (103.844,1.25126) twice
+warning building way geometry for way 160273112: contains position (103.844,1.25096) twice
+warning building way geometry for way 160273112: contains position (103.844,1.2509) twice
+warning building way geometry for way 160411004: contains position (103.841,1.24898) twice
+warning building way geometry for way 160411005: contains position (103.842,1.24895) twice
+warning building way geometry for way 160411005: contains position (103.841,1.24923) twice
+warning building way geometry for way 160411005: contains position (103.842,1.2492) twice
+warning building way geometry for way 160411005: contains position (103.842,1.24937) twice
+warning building way geometry for way 160414662: contains position (103.843,1.25096) twice
+warning building way geometry for way 160416348: contains position (103.843,1.2518) twice
+warning building way geometry for way 160419086: contains position (103.846,1.25242) twice
+warning building way geometry for way 160419091: contains position (103.846,1.25234) twice
+warning building way geometry for way 160419103: contains position (103.846,1.25221) twice
+warning building way geometry for way 160419105: contains position (103.847,1.25212) twice
+warning building way geometry for way 160419105: contains position (103.847,1.25211) twice
+warning building way geometry for way 160498480: contains position (103.847,1.25053) twice
+warning building way geometry for way 160498487: contains position (103.847,1.25171) twice
+warning building way geometry for way 160498488: contains position (103.847,1.25147) twice
+warning building way geometry for way 160498509: contains position (103.847,1.25109) twice
+warning building way geometry for way 160498510: contains position (103.847,1.25099) twice
+warning building way geometry for way 160572635: contains position (103.846,1.24821) twice
+warning building way geometry for way 160572636: contains position (103.846,1.24827) twice
+warning building way geometry for way 160572637: contains position (103.846,1.24798) twice
+warning building way geometry for way 160572640: contains position (103.847,1.24991) twice
+warning building way geometry for way 160572642: contains position (103.845,1.248) twice
+warning building way geometry for way 160572646: contains position (103.846,1.24839) twice
+warning building way geometry for way 160572646: contains position (103.846,1.24841) twice
+warning building way geometry for way 160572648: contains position (103.847,1.2496) twice
+warning building way geometry for way 160572649: contains position (103.846,1.24846) twice
+warning building way geometry for way 160572651: contains position (103.846,1.24908) twice
+warning building way geometry for way 160572654: contains position (103.846,1.24908) twice
+warning building way geometry for way 160572654: contains position (103.846,1.24926) twice
+warning building way geometry for way 160572654: contains position (103.846,1.24906) twice
+warning building way geometry for way 160572658: contains position (103.847,1.24926) twice
+warning building way geometry for way 160572667: contains position (103.846,1.24918) twice
+warning building way geometry for way 160572667: contains position (103.846,1.24935) twice
+warning building way geometry for way 160572670: contains position (103.846,1.25001) twice
+warning building way geometry for way 160572673: contains position (103.847,1.24993) twice
+warning building way geometry for way 160572674: contains position (103.846,1.24919) twice
+warning building way geometry for way 160572681: contains position (103.846,1.24856) twice
+warning building way geometry for way 160572684: contains position (103.846,1.24996) twice
+warning building way geometry for way 160572684: contains position (103.846,1.2497) twice
+warning building way geometry for way 160572684: contains position (103.846,1.24959) twice
+warning building way geometry for way 160572697: contains position (103.846,1.24988) twice
+warning building way geometry for way 160779753: contains position (103.844,1.24702) twice
+warning building way geometry for way 160779753: contains position (103.844,1.24703) twice
+warning building way geometry for way 160779753: contains position (103.844,1.24704) twice
+warning building way geometry for way 160779753: contains position (103.844,1.24706) twice
+warning building way geometry for way 160779753: contains position (103.844,1.24706) twice
+warning building way geometry for way 160779753: contains position (103.844,1.24706) twice
+warning building way geometry for way 160779753: contains position (103.844,1.24704) twice
+warning building way geometry for way 160779759: contains position (103.845,1.24764) twice
+warning building way geometry for way 160779761: contains position (103.845,1.24735) twice
+warning building way geometry for way 160779767: contains position (103.845,1.24768) twice
+warning building way geometry for way 160805893: contains position (103.842,1.24456) twice
+warning building way geometry for way 160805897: contains position (103.843,1.24418) twice
+warning building way geometry for way 160805897: contains position (103.843,1.24401) twice
+warning building way geometry for way 160805897: contains position (103.843,1.24402) twice
+warning building way geometry for way 160805897: contains position (103.842,1.24369) twice
+warning building way geometry for way 160954286: contains position (103.844,1.24697) twice
+warning building way geometry for way 160954286: contains position (103.844,1.24691) twice
+warning building way geometry for way 161420323: contains position (103.806,1.31248) twice
+warning building way geometry for way 161420323: contains position (103.806,1.31257) twice
+warning building way geometry for way 161420323: contains position (103.806,1.31252) twice
+warning building way geometry for way 161420326: contains position (103.807,1.31189) twice
+warning building way geometry for way 161420328: contains position (103.807,1.3122) twice
+warning building way geometry for way 161420328: contains position (103.807,1.31219) twice
+warning building way geometry for way 161420328: contains position (103.807,1.31213) twice
+warning building way geometry for way 162251415: contains position (103.836,1.25114) twice
+warning building way geometry for way 162251426: contains position (103.837,1.25068) twice
+warning building way geometry for way 162251427: contains position (103.837,1.25012) twice
+warning building way geometry for way 162251430: contains position (103.838,1.24957) twice
+warning building way geometry for way 162251438: contains position (103.838,1.24874) twice
+warning building way geometry for way 162251438: contains position (103.839,1.24885) twice
+warning building way geometry for way 162251440: contains position (103.836,1.25114) twice
+warning building way geometry for way 162251440: contains position (103.836,1.25108) twice
+warning building way geometry for way 162251444: contains position (103.838,1.24956) twice
+warning building way geometry for way 162650181: contains position (103.744,1.34859) twice
+warning building way geometry for way 163029042: contains position (103.824,1.24983) twice
+warning building way geometry for way 163029052: contains position (103.825,1.24912) twice
+warning building way geometry for way 163029053: contains position (103.823,1.24912) twice
+warning building way geometry for way 163029054: contains position (103.823,1.24975) twice
+warning building way geometry for way 163029063: contains position (103.824,1.24879) twice
+warning building way geometry for way 163029076: contains position (103.828,1.24579) twice
+warning building way geometry for way 163201813: contains position (103.825,1.24859) twice
+warning building way geometry for way 163201814: contains position (103.825,1.24888) twice
+warning building way geometry for way 163201814: contains position (103.825,1.2488) twice
+warning building way geometry for way 163201815: contains position (103.824,1.24888) twice
+warning building way geometry for way 163201818: contains position (103.825,1.24904) twice
+warning building way geometry for way 163201830: contains position (103.825,1.24888) twice
+warning building way geometry for way 163201833: contains position (103.825,1.24829) twice
+warning building way geometry for way 163201833: contains position (103.825,1.24832) twice
+warning building way geometry for way 163201833: contains position (103.825,1.24821) twice
+warning building way geometry for way 163201834: contains position (103.825,1.24832) twice
+warning building way geometry for way 163201834: contains position (103.825,1.24834) twice
+warning building way geometry for way 163201835: contains position (103.826,1.24842) twice
+warning building way geometry for way 163201853: contains position (103.826,1.24987) twice
+warning building way geometry for way 163201853: contains position (103.826,1.24996) twice
+warning building way geometry for way 163201853: contains position (103.826,1.25001) twice
+warning building way geometry for way 163201853: contains position (103.826,1.25006) twice
+warning building way geometry for way 163201854: contains position (103.825,1.25015) twice
+warning building way geometry for way 163201854: contains position (103.825,1.25012) twice
+warning building way geometry for way 163201854: contains position (103.825,1.25027) twice
+warning building way geometry for way 163201855: contains position (103.826,1.24963) twice
+warning building way geometry for way 163201855: contains position (103.826,1.24954) twice
+warning building way geometry for way 163201855: contains position (103.826,1.24966) twice
+warning building way geometry for way 163201855: contains position (103.826,1.24967) twice
+warning building way geometry for way 163201856: contains position (103.825,1.24999) twice
+warning building way geometry for way 163201856: contains position (103.826,1.24987) twice
+warning building way geometry for way 163201856: contains position (103.826,1.24987) twice
+warning building way geometry for way 163201856: contains position (103.825,1.24982) twice
+warning building way geometry for way 163201856: contains position (103.825,1.24987) twice
+warning building way geometry for way 163201856: contains position (103.825,1.24996) twice
+warning building way geometry for way 163201857: contains position (103.826,1.24956) twice
+warning building way geometry for way 163201857: contains position (103.826,1.24946) twice
+warning building way geometry for way 163201858: contains position (103.824,1.24841) twice
+warning building way geometry for way 163201858: contains position (103.824,1.24838) twice
+warning building way geometry for way 163201858: contains position (103.824,1.24838) twice
+warning building way geometry for way 163201858: contains position (103.824,1.24838) twice
+warning building way geometry for way 163201858: contains position (103.824,1.24844) twice
+warning building way geometry for way 163201858: contains position (103.824,1.24842) twice
+warning building way geometry for way 163201858: contains position (103.824,1.24867) twice
+warning building way geometry for way 163201859: contains position (103.823,1.24875) twice
+warning building way geometry for way 163201859: contains position (103.823,1.24867) twice
+warning building way geometry for way 163201859: contains position (103.823,1.24859) twice
+warning building way geometry for way 163201859: contains position (103.823,1.24858) twice
+warning building way geometry for way 163201859: contains position (103.823,1.24853) twice
+warning building way geometry for way 163201859: contains position (103.823,1.24849) twice
+warning building way geometry for way 163201859: contains position (103.824,1.24864) twice
+warning building way geometry for way 163201859: contains position (103.824,1.24864) twice
+warning building way geometry for way 163201859: contains position (103.824,1.24871) twice
+warning building way geometry for way 163201859: contains position (103.823,1.24871) twice
+warning building way geometry for way 163201859: contains position (103.823,1.24881) twice
+warning building way geometry for way 163201860: contains position (103.824,1.24853) twice
+warning building way geometry for way 163201860: contains position (103.824,1.24844) twice
+warning building way geometry for way 163201860: contains position (103.824,1.24835) twice
+warning building way geometry for way 163201860: contains position (103.824,1.24843) twice
+warning building way geometry for way 163201860: contains position (103.824,1.24853) twice
+warning building way geometry for way 163201860: contains position (103.824,1.24858) twice
+warning building way geometry for way 163201860: contains position (103.824,1.24859) twice
+warning building way geometry for way 163201861: contains position (103.823,1.24899) twice
+warning building way geometry for way 163201861: contains position (103.823,1.24902) twice
+warning building way geometry for way 163201861: contains position (103.823,1.24909) twice
+warning building way geometry for way 163201862: contains position (103.823,1.24889) twice
+warning building way geometry for way 163201862: contains position (103.823,1.24883) twice
+warning building way geometry for way 163201862: contains position (103.823,1.24881) twice
+warning building way geometry for way 163201862: contains position (103.823,1.24873) twice
+warning building way geometry for way 163201862: contains position (103.823,1.2488) twice
+warning building way geometry for way 163201862: contains position (103.823,1.24901) twice
+warning building way geometry for way 163201863: contains position (103.823,1.24952) twice
+warning building way geometry for way 163201863: contains position (103.823,1.24946) twice
+warning building way geometry for way 163201863: contains position (103.823,1.2494) twice
+warning building way geometry for way 163201863: contains position (103.823,1.24935) twice
+warning building way geometry for way 163201863: contains position (103.823,1.24937) twice
+warning building way geometry for way 163201863: contains position (103.823,1.24942) twice
+warning building way geometry for way 163201863: contains position (103.823,1.24955) twice
+warning building way geometry for way 163201863: contains position (103.823,1.24954) twice
+warning building way geometry for way 163201864: contains position (103.823,1.25009) twice
+warning building way geometry for way 163201864: contains position (103.823,1.25004) twice
+warning building way geometry for way 163201864: contains position (103.823,1.24985) twice
+warning building way geometry for way 163201864: contains position (103.823,1.24979) twice
+warning building way geometry for way 163201864: contains position (103.823,1.24977) twice
+warning building way geometry for way 163201864: contains position (103.823,1.24977) twice
+warning building way geometry for way 163201864: contains position (103.823,1.24981) twice
+warning building way geometry for way 163201865: contains position (103.822,1.25017) twice
+warning building way geometry for way 163201865: contains position (103.822,1.25008) twice
+warning building way geometry for way 163201865: contains position (103.822,1.25021) twice
+warning building way geometry for way 163201865: contains position (103.822,1.25023) twice
+warning building way geometry for way 163201865: contains position (103.822,1.25033) twice
+warning building way geometry for way 163201865: contains position (103.822,1.25032) twice
+warning building way geometry for way 163201865: contains position (103.822,1.25031) twice
+warning building way geometry for way 163201865: contains position (103.822,1.25031) twice
+warning building way geometry for way 163201866: contains position (103.822,1.25043) twice
+warning building way geometry for way 163201866: contains position (103.822,1.25028) twice
+warning building way geometry for way 163201866: contains position (103.823,1.25031) twice
+warning building way geometry for way 163201866: contains position (103.823,1.25033) twice
+warning building way geometry for way 163201866: contains position (103.823,1.25052) twice
+warning building way geometry for way 163201866: contains position (103.823,1.25053) twice
+warning building way geometry for way 163201866: contains position (103.823,1.25053) twice
+warning building way geometry for way 163201866: contains position (103.823,1.25053) twice
+warning building way geometry for way 163201866: contains position (103.822,1.25053) twice
+warning building way geometry for way 163201867: contains position (103.823,1.25048) twice
+warning building way geometry for way 163201867: contains position (103.823,1.25049) twice
+warning building way geometry for way 163201867: contains position (103.823,1.25045) twice
+warning building way geometry for way 163201867: contains position (103.823,1.25037) twice
+warning building way geometry for way 163201867: contains position (103.823,1.25021) twice
+warning building way geometry for way 163201867: contains position (103.823,1.25017) twice
+warning building way geometry for way 163201867: contains position (103.823,1.25028) twice
+warning building way geometry for way 163201867: contains position (103.823,1.25034) twice
+warning building way geometry for way 163201867: contains position (103.823,1.25045) twice
+warning building way geometry for way 163201867: contains position (103.823,1.2504) twice
+warning building way geometry for way 163203395: contains position (103.823,1.25145) twice
+warning building way geometry for way 163203398: contains position (103.823,1.25111) twice
+warning building way geometry for way 163203398: contains position (103.823,1.25111) twice
+warning building way geometry for way 163203398: contains position (103.823,1.25113) twice
+warning building way geometry for way 163203398: contains position (103.823,1.25117) twice
+warning building way geometry for way 163203413: contains position (103.823,1.25179) twice
+warning building way geometry for way 163203417: contains position (103.823,1.25191) twice
+warning building way geometry for way 163203423: contains position (103.823,1.2518) twice
+warning building way geometry for way 163203426: contains position (103.823,1.25202) twice
+warning building way geometry for way 163203429: contains position (103.823,1.25203) twice
+warning building way geometry for way 163203430: contains position (103.823,1.252) twice
+warning building way geometry for way 163203432: contains position (103.823,1.25191) twice
+warning building way geometry for way 163217020: contains position (103.812,1.26359) twice
+warning building way geometry for way 163502428: contains position (103.82,1.2531) twice
+warning building way geometry for way 163502447: contains position (103.822,1.25142) twice
+warning building way geometry for way 166522987: contains position (103.899,1.40927) twice
+warning building way geometry for way 167609857: contains position (103.806,1.31209) twice
+warning building way geometry for way 167609857: contains position (103.806,1.31204) twice
+warning building way geometry for way 167609857: contains position (103.806,1.31199) twice
+warning building way geometry for way 167619354: contains position (103.803,1.30756) twice
+warning building way geometry for way 168467923: contains position (103.682,1.2609) twice
+warning building way geometry for way 168467978: contains position (103.682,1.26065) twice
+warning building way geometry for way 168468001: contains position (103.68,1.26262) twice
+warning building way geometry for way 168468001: contains position (103.68,1.26267) twice
+warning building way geometry for way 168468003: contains position (103.682,1.26085) twice
+error building way geometry for way 170297613: must at least contain two nodes
+Ignoring illegal geometry for way 170297613.
+error building way geometry for way 170297617: must at least contain two nodes
+Ignoring illegal geometry for way 170297617.
+warning building way geometry for way 170664371: contains position (103.818,1.29693) twice
+warning building way geometry for way 170664381: contains position (103.817,1.29914) twice
+warning building way geometry for way 170664383: contains position (103.817,1.29945) twice
+warning building way geometry for way 170664383: contains position (103.816,1.29929) twice
+warning building way geometry for way 170664385: contains position (103.817,1.29987) twice
+warning building way geometry for way 170664390: contains position (103.816,1.29928) twice
+warning building way geometry for way 170664390: contains position (103.816,1.29941) twice
+warning building way geometry for way 170664390: contains position (103.816,1.29927) twice
+error building way geometry for way 170961303: must at least contain two nodes
+Ignoring illegal geometry for way 170961303.
+error building way geometry for way 170961304: must at least contain two nodes
+Ignoring illegal geometry for way 170961304.
+error building way geometry for way 170961323: must at least contain two nodes
+Ignoring illegal geometry for way 170961323.
+error building way geometry for way 170968033: must at least contain two nodes
+Ignoring illegal geometry for way 170968033.
+error building way geometry for way 170979763: must at least contain two nodes
+Ignoring illegal geometry for way 170979763.
+error building way geometry for way 170979786: must at least contain two nodes
+Ignoring illegal geometry for way 170979786.
+error building way geometry for way 170979801: must at least contain two nodes
+Ignoring illegal geometry for way 170979801.
+error building way geometry for way 170979804: must at least contain two nodes
+Ignoring illegal geometry for way 170979804.
+error building way geometry for way 171054770: must at least contain two nodes
+Ignoring illegal geometry for way 171054770.
+error building way geometry for way 171073194: must at least contain two nodes
+Ignoring illegal geometry for way 171073194.
+error building way geometry for way 171073262: must at least contain two nodes
+Ignoring illegal geometry for way 171073262.
+error building way geometry for way 171078811: must at least contain two nodes
+Ignoring illegal geometry for way 171078811.
+error building way geometry for way 171078825: must at least contain two nodes
+Ignoring illegal geometry for way 171078825.
+error building way geometry for way 171078838: must at least contain two nodes
+Ignoring illegal geometry for way 171078838.
+error building way geometry for way 171078911: must at least contain two nodes
+Ignoring illegal geometry for way 171078911.
+error building way geometry for way 171114107: must at least contain two nodes
+Ignoring illegal geometry for way 171114107.
+error building way geometry for way 171114127: must at least contain two nodes
+Ignoring illegal geometry for way 171114127.
+error building way geometry for way 171114173: must at least contain two nodes
+Ignoring illegal geometry for way 171114173.
+error building way geometry for way 171114464: must at least contain two nodes
+Ignoring illegal geometry for way 171114464.
+warning building way geometry for way 171360214: contains position (103.905,1.44126) twice
+warning building way geometry for way 171360214: contains position (103.905,1.44125) twice
+warning building way geometry for way 171360217: contains position (103.905,1.44117) twice
+warning building way geometry for way 171360217: contains position (103.905,1.44118) twice
+warning building way geometry for way 171361612: contains position (103.902,1.44178) twice
+warning building way geometry for way 171362145: contains position (103.897,1.44538) twice
+warning building way geometry for way 171363827: contains position (103.905,1.4446) twice
+warning building way geometry for way 171363827: contains position (103.905,1.44462) twice
+warning building way geometry for way 171363828: contains position (103.905,1.4446) twice
+warning building way geometry for way 171363828: contains position (103.905,1.44462) twice
+warning building way geometry for way 171363828: contains position (103.905,1.44462) twice
+warning building way geometry for way 171363829: contains position (103.905,1.44585) twice
+warning building way geometry for way 171363829: contains position (103.905,1.44586) twice
+warning building way geometry for way 171363829: contains position (103.905,1.44588) twice
+warning building way geometry for way 171363829: contains position (103.905,1.44586) twice
+warning building way geometry for way 171363830: contains position (103.905,1.44605) twice
+warning building way geometry for way 171363830: contains position (103.905,1.44605) twice
+warning building way geometry for way 171363832: contains position (103.905,1.44574) twice
+warning building way geometry for way 171363832: contains position (103.905,1.44575) twice
+warning building way geometry for way 171363832: contains position (103.905,1.44577) twice
+warning building way geometry for way 171363832: contains position (103.905,1.44575) twice
+warning building way geometry for way 171363833: contains position (103.905,1.44467) twice
+warning building way geometry for way 171363835: contains position (103.905,1.44474) twice
+warning building way geometry for way 171363836: contains position (103.906,1.44506) twice
+warning building way geometry for way 171363836: contains position (103.906,1.44507) twice
+warning building way geometry for way 171363836: contains position (103.906,1.44508) twice
+warning building way geometry for way 171363836: contains position (103.906,1.44508) twice
+warning building way geometry for way 171363836: contains position (103.906,1.44508) twice
+warning building way geometry for way 171363836: contains position (103.906,1.44507) twice
+warning building way geometry for way 171363839: contains position (103.905,1.4446) twice
+warning building way geometry for way 171363839: contains position (103.905,1.4446) twice
+warning building way geometry for way 171363839: contains position (103.905,1.44462) twice
+warning building way geometry for way 171363840: contains position (103.905,1.44599) twice
+warning building way geometry for way 171363840: contains position (103.905,1.44601) twice
+warning building way geometry for way 171363841: contains position (103.905,1.44578) twice
+warning building way geometry for way 171363841: contains position (103.905,1.44579) twice
+warning building way geometry for way 171363841: contains position (103.905,1.44581) twice
+warning building way geometry for way 171363841: contains position (103.905,1.44579) twice
+warning building way geometry for way 171363844: contains position (103.905,1.44594) twice
+warning building way geometry for way 171363844: contains position (103.905,1.44596) twice
+warning building way geometry for way 171363844: contains position (103.905,1.44597) twice
+warning building way geometry for way 171363844: contains position (103.905,1.44596) twice
+warning building way geometry for way 171363845: contains position (103.905,1.44459) twice
+warning building way geometry for way 171363845: contains position (103.905,1.4446) twice
+warning building way geometry for way 171363845: contains position (103.905,1.44462) twice
+warning building way geometry for way 171363845: contains position (103.905,1.44462) twice
+warning building way geometry for way 171363849: contains position (103.906,1.44513) twice
+warning building way geometry for way 171363849: contains position (103.906,1.44514) twice
+warning building way geometry for way 171363849: contains position (103.906,1.44515) twice
+warning building way geometry for way 171363849: contains position (103.906,1.44515) twice
+warning building way geometry for way 171363849: contains position (103.906,1.44515) twice
+warning building way geometry for way 171363849: contains position (103.906,1.44514) twice
+warning building way geometry for way 171363850: contains position (103.905,1.44601) twice
+warning building way geometry for way 171363850: contains position (103.905,1.44603) twice
+warning building way geometry for way 171363850: contains position (103.905,1.44603) twice
+warning building way geometry for way 171363851: contains position (103.906,1.4451) twice
+warning building way geometry for way 171363851: contains position (103.906,1.4451) twice
+warning building way geometry for way 171363851: contains position (103.906,1.4451) twice
+warning building way geometry for way 171363851: contains position (103.906,1.44512) twice
+warning building way geometry for way 171363851: contains position (103.906,1.44512) twice
+warning building way geometry for way 171363851: contains position (103.906,1.44511) twice
+warning building way geometry for way 171363858: contains position (103.906,1.44475) twice
+warning building way geometry for way 171363858: contains position (103.906,1.44475) twice
+warning building way geometry for way 171363858: contains position (103.906,1.44477) twice
+warning building way geometry for way 171363860: contains position (103.906,1.44471) twice
+warning building way geometry for way 171363860: contains position (103.906,1.44473) twice
+warning building way geometry for way 171363860: contains position (103.906,1.44473) twice
+warning building way geometry for way 171363861: contains position (103.905,1.4447) twice
+warning building way geometry for way 171363861: contains position (103.905,1.44471) twice
+warning building way geometry for way 171363861: contains position (103.905,1.44473) twice
+warning building way geometry for way 171363861: contains position (103.905,1.44474) twice
+warning building way geometry for way 171363862: contains position (103.905,1.4459) twice
+warning building way geometry for way 171363862: contains position (103.905,1.44592) twice
+warning building way geometry for way 171363863: contains position (103.905,1.44574) twice
+warning building way geometry for way 171363863: contains position (103.905,1.44574) twice
+warning building way geometry for way 171363863: contains position (103.905,1.44576) twice
+warning building way geometry for way 171363864: contains position (103.905,1.44467) twice
+warning building way geometry for way 171363868: contains position (103.906,1.4452) twice
+warning building way geometry for way 171363868: contains position (103.906,1.4452) twice
+warning building way geometry for way 171363868: contains position (103.906,1.4452) twice
+warning building way geometry for way 171363868: contains position (103.906,1.44521) twice
+warning building way geometry for way 171363868: contains position (103.906,1.44522) twice
+warning building way geometry for way 171363868: contains position (103.906,1.44521) twice
+warning building way geometry for way 171363870: contains position (103.905,1.44596) twice
+warning building way geometry for way 171363870: contains position (103.905,1.44596) twice
+warning building way geometry for way 171363870: contains position (103.905,1.44598) twice
+warning building way geometry for way 171363871: contains position (103.905,1.44603) twice
+warning building way geometry for way 171363871: contains position (103.905,1.44605) twice
+warning building way geometry for way 171363871: contains position (103.905,1.44606) twice
+warning building way geometry for way 171363871: contains position (103.905,1.44605) twice
+warning building way geometry for way 171363874: contains position (103.905,1.44475) twice
+warning building way geometry for way 171363874: contains position (103.905,1.44475) twice
+warning building way geometry for way 171363874: contains position (103.905,1.44477) twice
+warning building way geometry for way 171363875: contains position (103.905,1.44471) twice
+warning building way geometry for way 171363876: contains position (103.905,1.44599) twice
+warning building way geometry for way 171363876: contains position (103.905,1.44599) twice
+warning building way geometry for way 171363876: contains position (103.905,1.44601) twice
+warning building way geometry for way 171363878: contains position (103.906,1.44523) twice
+warning building way geometry for way 171363878: contains position (103.906,1.44523) twice
+warning building way geometry for way 171363878: contains position (103.906,1.44523) twice
+warning building way geometry for way 171363878: contains position (103.906,1.44524) twice
+warning building way geometry for way 171363878: contains position (103.906,1.44525) twice
+warning building way geometry for way 171363878: contains position (103.906,1.44524) twice
+warning building way geometry for way 171363880: contains position (103.905,1.44592) twice
+warning building way geometry for way 171363880: contains position (103.905,1.44594) twice
+warning building way geometry for way 171363881: contains position (103.905,1.44595) twice
+warning building way geometry for way 171363881: contains position (103.905,1.44597) twice
+warning building way geometry for way 171363881: contains position (103.905,1.44597) twice
+warning building way geometry for way 171363883: contains position (103.905,1.4446) twice
+warning building way geometry for way 171363883: contains position (103.905,1.44462) twice
+warning building way geometry for way 171363883: contains position (103.905,1.44462) twice
+warning building way geometry for way 171363888: contains position (103.905,1.44583) twice
+warning building way geometry for way 171363888: contains position (103.905,1.44585) twice
+warning building way geometry for way 171363888: contains position (103.905,1.44586) twice
+warning building way geometry for way 171363890: contains position (103.905,1.4459) twice
+warning building way geometry for way 171363890: contains position (103.905,1.44591) twice
+warning building way geometry for way 171363890: contains position (103.905,1.44593) twice
+warning building way geometry for way 171363890: contains position (103.905,1.44591) twice
+warning building way geometry for way 171363891: contains position (103.906,1.44463) twice
+warning building way geometry for way 171363891: contains position (103.906,1.44463) twice
+warning building way geometry for way 171363891: contains position (103.905,1.44463) twice
+warning building way geometry for way 171363891: contains position (103.905,1.44465) twice
+warning building way geometry for way 171363891: contains position (103.906,1.44465) twice
+warning building way geometry for way 171363891: contains position (103.906,1.44465) twice
+warning building way geometry for way 171363893: contains position (103.905,1.44588) twice
+warning building way geometry for way 171363893: contains position (103.905,1.44589) twice
+warning building way geometry for way 171363893: contains position (103.905,1.4459) twice
+warning building way geometry for way 171363893: contains position (103.905,1.44589) twice
+warning building way geometry for way 171363896: contains position (103.905,1.4446) twice
+warning building way geometry for way 171363896: contains position (103.905,1.4446) twice
+warning building way geometry for way 171363896: contains position (103.905,1.44463) twice
+warning building way geometry for way 171363896: contains position (103.905,1.44462) twice
+warning building way geometry for way 171363898: contains position (103.905,1.44585) twice
+warning building way geometry for way 171363898: contains position (103.905,1.44588) twice
+warning building way geometry for way 171363898: contains position (103.905,1.44587) twice
+warning building way geometry for way 171363900: contains position (103.905,1.4446) twice
+warning building way geometry for way 171363900: contains position (103.905,1.44462) twice
+warning building way geometry for way 171363905: contains position (103.905,1.44579) twice
+warning building way geometry for way 171363905: contains position (103.905,1.44578) twice
+warning building way geometry for way 171363905: contains position (103.905,1.44582) twice
+warning building way geometry for way 171363905: contains position (103.905,1.44581) twice
+warning building way geometry for way 171363908: contains position (103.905,1.44467) twice
+warning building way geometry for way 171363912: contains position (103.905,1.44463) twice
+warning building way geometry for way 171363912: contains position (103.905,1.44463) twice
+warning building way geometry for way 171363912: contains position (103.905,1.44465) twice
+warning building way geometry for way 171363912: contains position (103.905,1.44465) twice
+warning building way geometry for way 171364405: contains position (103.896,1.4488) twice
+warning building way geometry for way 171364405: contains position (103.896,1.4488) twice
+warning building way geometry for way 171364407: contains position (103.896,1.44878) twice
+warning building way geometry for way 171364407: contains position (103.896,1.4488) twice
+warning building way geometry for way 171364410: contains position (103.896,1.44873) twice
+warning building way geometry for way 171364410: contains position (103.896,1.44875) twice
+warning building way geometry for way 171364420: contains position (103.896,1.44873) twice
+warning building way geometry for way 171364420: contains position (103.896,1.44874) twice
+warning building way geometry for way 171364420: contains position (103.896,1.44876) twice
+warning building way geometry for way 171364421: contains position (103.896,1.44873) twice
+warning building way geometry for way 171364421: contains position (103.896,1.44876) twice
+warning building way geometry for way 171364421: contains position (103.896,1.44874) twice
+warning building way geometry for way 171364422: contains position (103.896,1.44854) twice
+warning building way geometry for way 171364422: contains position (103.896,1.44857) twice
+warning building way geometry for way 171364422: contains position (103.896,1.44857) twice
+warning building way geometry for way 171364424: contains position (103.896,1.44869) twice
+warning building way geometry for way 171364424: contains position (103.896,1.44869) twice
+warning building way geometry for way 171364431: contains position (103.896,1.44905) twice
+warning building way geometry for way 171364431: contains position (103.896,1.44905) twice
+warning building way geometry for way 171364432: contains position (103.896,1.44877) twice
+warning building way geometry for way 171364432: contains position (103.896,1.44879) twice
+warning building way geometry for way 171364432: contains position (103.896,1.4488) twice
+warning building way geometry for way 171364432: contains position (103.896,1.44879) twice
+warning building way geometry for way 171364433: contains position (103.896,1.44864) twice
+warning building way geometry for way 171364433: contains position (103.896,1.44866) twice
+warning building way geometry for way 171364435: contains position (103.896,1.4486) twice
+warning building way geometry for way 171364435: contains position (103.896,1.4486) twice
+warning building way geometry for way 171364436: contains position (103.896,1.44868) twice
+warning building way geometry for way 171364436: contains position (103.896,1.44871) twice
+warning building way geometry for way 171364436: contains position (103.896,1.4487) twice
+warning building way geometry for way 171364437: contains position (103.896,1.44868) twice
+warning building way geometry for way 171364437: contains position (103.896,1.44871) twice
+warning building way geometry for way 171364437: contains position (103.896,1.4487) twice
+warning building way geometry for way 171364440: contains position (103.896,1.44859) twice
+warning building way geometry for way 171364440: contains position (103.896,1.44862) twice
+warning building way geometry for way 171364442: contains position (103.896,1.44865) twice
+warning building way geometry for way 171364442: contains position (103.896,1.44865) twice
+warning building way geometry for way 171364443: contains position (103.896,1.44891) twice
+warning building way geometry for way 171364443: contains position (103.896,1.44891) twice
+warning building way geometry for way 171364444: contains position (103.896,1.44859) twice
+warning building way geometry for way 171364444: contains position (103.896,1.4486) twice
+warning building way geometry for way 171364444: contains position (103.896,1.44862) twice
+warning building way geometry for way 171364447: contains position (103.896,1.44864) twice
+warning building way geometry for way 171364447: contains position (103.896,1.44863) twice
+warning building way geometry for way 171364447: contains position (103.896,1.44867) twice
+warning building way geometry for way 171364447: contains position (103.896,1.44866) twice
+warning building way geometry for way 171364449: contains position (103.896,1.44854) twice
+warning building way geometry for way 171364449: contains position (103.896,1.44858) twice
+warning building way geometry for way 171364450: contains position (103.896,1.44855) twice
+warning building way geometry for way 171364450: contains position (103.896,1.44854) twice
+warning building way geometry for way 171364450: contains position (103.896,1.44858) twice
+warning building way geometry for way 171364450: contains position (103.896,1.44857) twice
+warning building way geometry for way 171364453: contains position (103.896,1.44873) twice
+warning building way geometry for way 171364453: contains position (103.896,1.44876) twice
+warning building way geometry for way 171364453: contains position (103.896,1.44874) twice
+warning building way geometry for way 171364455: contains position (103.896,1.44855) twice
+warning building way geometry for way 171364455: contains position (103.896,1.44857) twice
+warning building way geometry for way 171364464: contains position (103.896,1.44878) twice
+warning building way geometry for way 171364464: contains position (103.896,1.4488) twice
+warning building way geometry for way 171364467: contains position (103.896,1.44864) twice
+warning building way geometry for way 171364467: contains position (103.896,1.44866) twice
+warning building way geometry for way 171364470: contains position (103.896,1.44859) twice
+warning building way geometry for way 171364470: contains position (103.896,1.4486) twice
+warning building way geometry for way 171364470: contains position (103.896,1.44862) twice
+warning building way geometry for way 171364479: contains position (103.897,1.44797) twice
+warning building way geometry for way 171364480: contains position (103.896,1.44868) twice
+warning building way geometry for way 171364480: contains position (103.896,1.44871) twice
+warning building way geometry for way 171364480: contains position (103.896,1.44871) twice
+warning building way geometry for way 171774262: contains position (103.831,1.3111) twice
+warning building way geometry for way 171779990: contains position (103.831,1.3123) twice
+warning building way geometry for way 171779990: contains position (103.831,1.3123) twice
+warning building way geometry for way 171779990: contains position (103.831,1.31227) twice
+warning building way geometry for way 171779990: contains position (103.831,1.31228) twice
+warning building way geometry for way 171780348: contains position (103.83,1.31112) twice
+warning building way geometry for way 171780849: contains position (103.829,1.31141) twice
+warning building way geometry for way 171947130: contains position (103.825,1.29508) twice
+warning building way geometry for way 171947134: contains position (103.826,1.29547) twice
+warning building way geometry for way 171947134: contains position (103.826,1.29544) twice
+warning building way geometry for way 171976552: contains position (103.84,1.27398) twice
+warning building way geometry for way 171995557: contains position (103.846,1.27444) twice
+warning building way geometry for way 171995557: contains position (103.846,1.27456) twice
+warning building way geometry for way 172008292: contains position (103.819,1.25579) twice
+warning building way geometry for way 172094340: contains position (103.822,1.27625) twice
+warning building way geometry for way 172100522: contains position (103.815,1.28703) twice
+warning building way geometry for way 172214831: contains position (103.826,1.29343) twice
+warning building way geometry for way 172214845: contains position (103.825,1.29286) twice
+warning building way geometry for way 172214845: contains position (103.825,1.29285) twice
+warning building way geometry for way 172214845: contains position (103.825,1.29273) twice
+warning building way geometry for way 172241430: contains position (103.829,1.28524) twice
+Ignoring illegal geometry for way 172288976.
+warning building way geometry for way 172297195: contains position (103.864,1.28131) twice
+warning building way geometry for way 172297349: contains position (103.864,1.28175) twice
+warning building way geometry for way 172299372: contains position (103.866,1.28317) twice
+warning building way geometry for way 172307475: contains position (103.86,1.28407) twice
+warning building way geometry for way 172317488: contains position (103.988,1.3517) twice
+warning building way geometry for way 172363339: contains position (103.831,1.28895) twice
+warning building way geometry for way 172363356: contains position (103.827,1.28839) twice
+warning building way geometry for way 172363360: contains position (103.832,1.28652) twice
+warning building way geometry for way 172363360: contains position (103.832,1.28662) twice
+warning building way geometry for way 172363372: contains position (103.831,1.28661) twice
+warning building way geometry for way 172363372: contains position (103.831,1.28649) twice
+warning building way geometry for way 172363372: contains position (103.831,1.28649) twice
+warning building way geometry for way 172363372: contains position (103.831,1.2866) twice
+warning building way geometry for way 172363374: contains position (103.83,1.28663) twice
+warning building way geometry for way 172363374: contains position (103.83,1.28652) twice
+warning building way geometry for way 172363375: contains position (103.83,1.28701) twice
+warning building way geometry for way 172363384: contains position (103.833,1.2899) twice
+warning building way geometry for way 172363428: contains position (103.83,1.28984) twice
+warning building way geometry for way 172363428: contains position (103.83,1.2899) twice
+warning building way geometry for way 172363428: contains position (103.83,1.2899) twice
+warning building way geometry for way 172363428: contains position (103.83,1.28989) twice
+warning building way geometry for way 172363429: contains position (103.83,1.2892) twice
+warning building way geometry for way 172363429: contains position (103.83,1.28926) twice
+warning building way geometry for way 172363429: contains position (103.83,1.28926) twice
+warning building way geometry for way 172367120: contains position (103.811,1.29281) twice
+warning building way geometry for way 172367130: contains position (103.812,1.29418) twice
+warning building way geometry for way 172367134: contains position (103.827,1.2911) twice
+warning building way geometry for way 172367136: contains position (103.828,1.2911) twice
+warning building way geometry for way 172367163: contains position (103.817,1.29201) twice
+warning building way geometry for way 172367163: contains position (103.816,1.29182) twice
+warning building way geometry for way 172367163: contains position (103.817,1.29208) twice
+warning building way geometry for way 172367163: contains position (103.817,1.29213) twice
+warning building way geometry for way 172368086: contains position (103.849,1.29225) twice
+warning building way geometry for way 172368086: contains position (103.849,1.29217) twice
+warning building way geometry for way 172368087: contains position (103.848,1.29313) twice
+warning building way geometry for way 172368089: contains position (103.849,1.29288) twice
+warning building way geometry for way 172382937: contains position (103.821,1.26526) twice
+warning building way geometry for way 172401069: contains position (103.814,1.26645) twice
+warning building way geometry for way 172401072: contains position (103.815,1.26735) twice
+warning building way geometry for way 172401072: contains position (103.815,1.26743) twice
+warning building way geometry for way 172401073: contains position (103.815,1.26567) twice
+warning building way geometry for way 172401076: contains position (103.815,1.26683) twice
+warning building way geometry for way 172401086: contains position (103.815,1.26656) twice
+warning building way geometry for way 172401086: contains position (103.815,1.26616) twice
+warning building way geometry for way 172401086: contains position (103.815,1.26616) twice
+warning building way geometry for way 172413996: contains position (103.843,1.30363) twice
+warning building way geometry for way 172468528: contains position (103.864,1.28266) twice
+warning building way geometry for way 172468528: contains position (103.864,1.28264) twice
+warning building way geometry for way 172468528: contains position (103.864,1.28269) twice
+warning building way geometry for way 172468529: contains position (103.865,1.28227) twice
+warning building way geometry for way 172468529: contains position (103.865,1.28224) twice
+warning building way geometry for way 172468529: contains position (103.865,1.28224) twice
+warning building way geometry for way 172468529: contains position (103.865,1.28227) twice
+warning building way geometry for way 172471271: contains position (103.935,1.30693) twice
+warning building way geometry for way 172471273: contains position (103.935,1.30708) twice
+warning building way geometry for way 172471273: contains position (103.935,1.30662) twice
+warning building way geometry for way 172471287: contains position (103.899,1.29705) twice
+warning building way geometry for way 172471287: contains position (103.899,1.29705) twice
+warning building way geometry for way 172473528: contains position (103.876,1.30317) twice
+warning building way geometry for way 172481743: contains position (103.812,1.27329) twice
+warning building way geometry for way 172481745: contains position (103.811,1.27137) twice
+warning building way geometry for way 172481745: contains position (103.811,1.27159) twice
+warning building way geometry for way 172481746: contains position (103.81,1.27257) twice
+warning building way geometry for way 172481746: contains position (103.81,1.27245) twice
+warning building way geometry for way 172481750: contains position (103.811,1.27174) twice
+warning building way geometry for way 172481750: contains position (103.811,1.27177) twice
+warning building way geometry for way 172481750: contains position (103.811,1.27177) twice
+warning building way geometry for way 172481804: contains position (103.804,1.28198) twice
+warning building way geometry for way 172481882: contains position (103.798,1.27447) twice
+warning building way geometry for way 172481890: contains position (103.802,1.28238) twice
+warning building way geometry for way 172481890: contains position (103.802,1.28252) twice
+warning building way geometry for way 172481893: contains position (103.796,1.27509) twice
+warning building way geometry for way 172481899: contains position (103.808,1.27563) twice
+warning building way geometry for way 172481899: contains position (103.808,1.2757) twice
+warning building way geometry for way 172481899: contains position (103.808,1.2757) twice
+warning building way geometry for way 172484034: contains position (103.804,1.27613) twice
+warning building way geometry for way 172495544: contains position (103.781,1.30137) twice
+warning building way geometry for way 172495544: contains position (103.781,1.3016) twice
+warning building way geometry for way 172495544: contains position (103.781,1.30183) twice
+warning building way geometry for way 172495544: contains position (103.781,1.30196) twice
+warning building way geometry for way 172495544: contains position (103.781,1.30176) twice
+warning building way geometry for way 172495544: contains position (103.781,1.30173) twice
+warning building way geometry for way 172495544: contains position (103.781,1.30153) twice
+warning building way geometry for way 172495544: contains position (103.781,1.3015) twice
+warning building way geometry for way 172495545: contains position (103.782,1.30083) twice
+warning building way geometry for way 172495547: contains position (103.774,1.30919) twice
+warning building way geometry for way 172495547: contains position (103.773,1.30948) twice
+warning building way geometry for way 172495547: contains position (103.773,1.31062) twice
+warning building way geometry for way 172496797: contains position (103.787,1.30209) twice
+warning building way geometry for way 172496797: contains position (103.787,1.30206) twice
+warning building way geometry for way 172496797: contains position (103.786,1.30156) twice
+warning building way geometry for way 172496800: contains position (103.785,1.30305) twice
+warning building way geometry for way 172496800: contains position (103.785,1.30312) twice
+warning building way geometry for way 172496800: contains position (103.785,1.30279) twice
+warning building way geometry for way 172496800: contains position (103.785,1.30267) twice
+warning building way geometry for way 172516467: contains position (103.784,1.33181) twice
+warning building way geometry for way 172516473: contains position (103.801,1.32509) twice
+warning building way geometry for way 172516474: contains position (103.804,1.32546) twice
+warning building way geometry for way 172516474: contains position (103.805,1.32558) twice
+warning building way geometry for way 172516475: contains position (103.804,1.33051) twice
+warning building way geometry for way 172516479: contains position (103.805,1.33199) twice
+warning building way geometry for way 172516479: contains position (103.805,1.33208) twice
+warning building way geometry for way 172516479: contains position (103.805,1.33215) twice
+warning building way geometry for way 172516479: contains position (103.805,1.33179) twice
+warning building way geometry for way 172518490: contains position (103.829,1.30586) twice
+warning building way geometry for way 172521293: contains position (103.837,1.3041) twice
+warning building way geometry for way 172524621: contains position (103.843,1.29912) twice
+warning building way geometry for way 172529118: contains position (103.844,1.32029) twice
+warning building way geometry for way 172529124: contains position (103.844,1.32409) twice
+warning building way geometry for way 172529138: contains position (103.846,1.31761) twice
+warning building way geometry for way 172529139: contains position (103.845,1.32513) twice
+warning building way geometry for way 172531517: contains position (103.842,1.32104) twice
+warning building way geometry for way 172748746: contains position (103.839,1.29043) twice
+warning building way geometry for way 172748750: contains position (103.839,1.29356) twice
+warning building way geometry for way 172748762: contains position (103.838,1.29156) twice
+warning building way geometry for way 172748765: contains position (103.843,1.29444) twice
+warning building way geometry for way 172748765: contains position (103.843,1.29426) twice
+warning building way geometry for way 172748768: contains position (103.839,1.29397) twice
+warning building way geometry for way 172748773: contains position (103.841,1.29178) twice
+warning building way geometry for way 172748773: contains position (103.841,1.29162) twice
+warning building way geometry for way 172748981: contains position (103.839,1.2943) twice
+warning building way geometry for way 172748981: contains position (103.839,1.29437) twice
+warning building way geometry for way 172749001: contains position (103.841,1.29189) twice
+warning building way geometry for way 172749001: contains position (103.841,1.292) twice
+warning building way geometry for way 172749001: contains position (103.841,1.292) twice
+warning building way geometry for way 172750697: contains position (103.841,1.29686) twice
+warning building way geometry for way 172750705: contains position (103.84,1.29623) twice
+warning building way geometry for way 172750798: contains position (103.837,1.29368) twice
+warning building way geometry for way 172814599: contains position (103.843,1.27681) twice
+warning building way geometry for way 172814599: contains position (103.843,1.27697) twice
+warning building way geometry for way 172904653: contains position (103.848,1.28266) twice
+warning building way geometry for way 172915350: contains position (103.853,1.2821) twice
+warning building way geometry for way 173000432: contains position (103.855,1.29615) twice
+warning building way geometry for way 173000444: contains position (103.855,1.29635) twice
+warning building way geometry for way 173112882: contains position (103.836,1.29746) twice
+warning building way geometry for way 173112886: contains position (103.836,1.29741) twice
+warning building way geometry for way 173112888: contains position (103.837,1.29845) twice
+warning building way geometry for way 173112903: contains position (103.837,1.2989) twice
+warning building way geometry for way 173166882: contains position (103.786,1.30032) twice
+warning building way geometry for way 173244214: contains position (103.958,1.37928) twice
+warning building way geometry for way 173244214: contains position (103.958,1.37952) twice
+warning building way geometry for way 173276876: contains position (103.915,1.30616) twice
+warning building way geometry for way 173276893: contains position (103.92,1.30735) twice
+warning building way geometry for way 173276893: contains position (103.92,1.30693) twice
+warning building way geometry for way 173276893: contains position (103.919,1.3066) twice
+warning building way geometry for way 173276898: contains position (103.912,1.30546) twice
+warning building way geometry for way 173391501: contains position (103.805,1.29481) twice
+warning building way geometry for way 173391548: contains position (103.8,1.29269) twice
+warning building way geometry for way 173391551: contains position (103.8,1.29377) twice
+warning building way geometry for way 173391647: contains position (103.809,1.2945) twice
+warning building way geometry for way 173391650: contains position (103.808,1.2947) twice
+warning building way geometry for way 173391650: contains position (103.808,1.29467) twice
+warning building way geometry for way 173391675: contains position (103.806,1.29306) twice
+warning building way geometry for way 173397114: contains position (103.792,1.30814) twice
+warning building way geometry for way 173397120: contains position (103.796,1.30735) twice
+warning building way geometry for way 173397120: contains position (103.795,1.30706) twice
+warning building way geometry for way 173397121: contains position (103.795,1.30653) twice
+warning building way geometry for way 173397126: contains position (103.794,1.30671) twice
+warning building way geometry for way 173397126: contains position (103.794,1.30643) twice
+warning building way geometry for way 173399702: contains position (103.796,1.3093) twice
+warning building way geometry for way 173399706: contains position (103.789,1.31019) twice
+warning building way geometry for way 173399740: contains position (103.798,1.31045) twice
+warning building way geometry for way 173399745: contains position (103.797,1.31179) twice
+warning building way geometry for way 173399745: contains position (103.797,1.31153) twice
+warning building way geometry for way 173399825: contains position (103.798,1.309) twice
+warning building way geometry for way 173490498: contains position (103.987,1.35584) twice
+warning building way geometry for way 173497801: contains position (103.807,1.26711) twice
+warning building way geometry for way 173497801: contains position (103.807,1.26697) twice
+warning building way geometry for way 173550987: contains position (103.762,1.32093) twice
+warning building way geometry for way 173551001: contains position (103.782,1.30495) twice
+warning building way geometry for way 173551089: contains position (103.769,1.31018) twice
+warning building way geometry for way 173551120: contains position (103.768,1.31879) twice
+warning building way geometry for way 173551131: contains position (103.769,1.30689) twice
+warning building way geometry for way 173551132: contains position (103.769,1.30622) twice
+warning building way geometry for way 173551134: contains position (103.769,1.30639) twice
+warning building way geometry for way 173551134: contains position (103.769,1.30647) twice
+warning building way geometry for way 173551136: contains position (103.763,1.31552) twice
+warning building way geometry for way 173551136: contains position (103.763,1.31518) twice
+warning building way geometry for way 173551169: contains position (103.769,1.30885) twice
+warning building way geometry for way 173551170: contains position (103.768,1.31603) twice
+warning building way geometry for way 173551170: contains position (103.768,1.31599) twice
+warning building way geometry for way 173551170: contains position (103.768,1.3156) twice
+warning building way geometry for way 173552166: contains position (103.759,1.30826) twice
+warning building way geometry for way 173552199: contains position (103.764,1.30353) twice
+warning building way geometry for way 173552221: contains position (103.766,1.30635) twice
+warning building way geometry for way 173552518: contains position (103.766,1.30161) twice
+warning building way geometry for way 173552518: contains position (103.765,1.30135) twice
+warning building way geometry for way 173552518: contains position (103.765,1.30135) twice
+warning building way geometry for way 173552518: contains position (103.765,1.30135) twice
+warning building way geometry for way 173552718: contains position (103.769,1.29991) twice
+warning building way geometry for way 173552719: contains position (103.754,1.31365) twice
+warning building way geometry for way 173552719: contains position (103.754,1.31417) twice
+warning building way geometry for way 173552720: contains position (103.766,1.29596) twice
+warning building way geometry for way 173552720: contains position (103.766,1.29629) twice
+warning building way geometry for way 173553209: contains position (103.766,1.30691) twice
+warning building way geometry for way 173553209: contains position (103.766,1.3067) twice
+warning building way geometry for way 173642854: contains position (103.753,1.37537) twice
+warning building way geometry for way 174072839: contains position (103.932,1.32988) twice
+warning building way geometry for way 174072839: contains position (103.932,1.33) twice
+warning building way geometry for way 174072849: contains position (103.933,1.33386) twice
+warning building way geometry for way 174072849: contains position (103.932,1.33396) twice
+warning building way geometry for way 174072849: contains position (103.932,1.33411) twice
+warning building way geometry for way 174262774: contains position (103.813,1.29464) twice
+warning building way geometry for way 174262774: contains position (103.813,1.29508) twice
+warning building way geometry for way 174262792: contains position (103.898,1.30778) twice
+warning building way geometry for way 174281662: contains position (103.948,1.33844) twice
+warning building way geometry for way 174281662: contains position (103.948,1.33875) twice
+warning building way geometry for way 174434834: contains position (103.809,1.25658) twice
+warning building way geometry for way 174717965: contains position (104.008,1.373) twice
+warning building way geometry for way 174718017: contains position (103.867,1.29245) twice
+warning building way geometry for way 174765851: contains position (103.9,1.32743) twice
+warning building way geometry for way 174765852: contains position (103.901,1.32815) twice
+warning building way geometry for way 174765852: contains position (103.901,1.32826) twice
+warning building way geometry for way 174765852: contains position (103.901,1.32854) twice
+warning building way geometry for way 174765852: contains position (103.902,1.32845) twice
+warning building way geometry for way 175540502: contains position (103.892,1.34649) twice
+warning building way geometry for way 175540503: contains position (103.837,1.32871) twice
+warning building way geometry for way 175540503: contains position (103.837,1.32862) twice
+warning building way geometry for way 175540503: contains position (103.837,1.32871) twice
+warning building way geometry for way 175929420: contains position (103.823,1.2936) twice
+warning building way geometry for way 175929422: contains position (103.823,1.2931) twice
+warning building way geometry for way 175929422: contains position (103.823,1.29296) twice
+warning building way geometry for way 175929430: contains position (103.823,1.29409) twice
+warning building way geometry for way 175929433: contains position (103.823,1.29414) twice
+warning building way geometry for way 175929433: contains position (103.823,1.29411) twice
+warning building way geometry for way 175929435: contains position (103.822,1.29427) twice
+warning building way geometry for way 175929435: contains position (103.822,1.2943) twice
+warning building way geometry for way 175929435: contains position (103.821,1.29439) twice
+warning building way geometry for way 175929435: contains position (103.821,1.29434) twice
+warning building way geometry for way 176273817: contains position (103.82,1.2539) twice
+warning building way geometry for way 176273851: contains position (103.828,1.24835) twice
+warning building way geometry for way 176839493: contains position (103.822,1.25349) twice
+error building way geometry for way 177618324: must at least contain two nodes
+Ignoring illegal geometry for way 177618324.
+warning building way geometry for way 178594800: contains position (103.825,1.29734) twice
+warning building way geometry for way 178594800: contains position (103.825,1.29702) twice
+warning building way geometry for way 178594815: contains position (103.829,1.29629) twice
+warning building way geometry for way 178594824: contains position (103.823,1.2951) twice
+warning building way geometry for way 178594827: contains position (103.829,1.29521) twice
+warning building way geometry for way 178594828: contains position (103.823,1.29705) twice
+warning building way geometry for way 178594837: contains position (103.831,1.30056) twice
+warning building way geometry for way 178594838: contains position (103.825,1.29923) twice
+warning building way geometry for way 178594839: contains position (103.825,1.2959) twice
+warning building way geometry for way 178594840: contains position (103.822,1.29625) twice
+warning building way geometry for way 178594840: contains position (103.822,1.29625) twice
+warning building way geometry for way 178594840: contains position (103.822,1.29625) twice
+warning building way geometry for way 178594844: contains position (103.829,1.29981) twice
+warning building way geometry for way 178594844: contains position (103.829,1.29963) twice
+warning building way geometry for way 178594845: contains position (103.825,1.30329) twice
+warning building way geometry for way 178594845: contains position (103.825,1.3033) twice
+warning building way geometry for way 178594845: contains position (103.825,1.3033) twice
+warning building way geometry for way 178594848: contains position (103.827,1.30495) twice
+warning building way geometry for way 178594848: contains position (103.827,1.30495) twice
+warning building way geometry for way 178594849: contains position (103.826,1.30458) twice
+warning building way geometry for way 178594849: contains position (103.826,1.30458) twice
+warning building way geometry for way 178594934: contains position (103.826,1.29715) twice
+warning building way geometry for way 178594934: contains position (103.826,1.29735) twice
+warning building way geometry for way 178594934: contains position (103.826,1.29745) twice
+warning building way geometry for way 178594934: contains position (103.826,1.29743) twice
+warning building way geometry for way 178594946: contains position (103.83,1.30036) twice
+warning building way geometry for way 178595285: contains position (103.829,1.30138) twice
+warning building way geometry for way 178929273: contains position (103.847,1.3031) twice
+warning building way geometry for way 178929273: contains position (103.847,1.3031) twice
+warning building way geometry for way 178929280: contains position (103.848,1.30636) twice
+warning building way geometry for way 178929281: contains position (103.848,1.306) twice
+warning building way geometry for way 178929284: contains position (103.841,1.30674) twice
+warning building way geometry for way 178929289: contains position (103.848,1.30252) twice
+warning building way geometry for way 178929289: contains position (103.848,1.30242) twice
+warning building way geometry for way 178929289: contains position (103.848,1.30244) twice
+warning building way geometry for way 178929291: contains position (103.848,1.30113) twice
+warning building way geometry for way 178929291: contains position (103.848,1.30124) twice
+warning building way geometry for way 178929291: contains position (103.848,1.30105) twice
+warning building way geometry for way 178929296: contains position (103.847,1.30281) twice
+warning building way geometry for way 178929296: contains position (103.847,1.30241) twice
+warning building way geometry for way 178929401: contains position (103.846,1.30187) twice
+warning building way geometry for way 178929401: contains position (103.846,1.30172) twice
+warning building way geometry for way 178929401: contains position (103.846,1.30167) twice
+warning building way geometry for way 178929408: contains position (103.846,1.30144) twice
+warning building way geometry for way 178929408: contains position (103.846,1.30109) twice
+warning building way geometry for way 178929408: contains position (103.846,1.30154) twice
+warning building way geometry for way 178929423: contains position (103.849,1.3023) twice
+warning building way geometry for way 179295541: contains position (103.83,1.30799) twice
+warning building way geometry for way 180475195: contains position (103.819,1.29468) twice
+warning building way geometry for way 180475195: contains position (103.819,1.29466) twice
+warning building way geometry for way 180475196: contains position (103.818,1.29417) twice
+warning building way geometry for way 180475196: contains position (103.818,1.29417) twice
+warning building way geometry for way 180475196: contains position (103.818,1.29417) twice
+warning building way geometry for way 180475196: contains position (103.818,1.29417) twice
+warning building way geometry for way 180475196: contains position (103.818,1.29416) twice
+warning building way geometry for way 180475196: contains position (103.818,1.29416) twice
+warning building way geometry for way 180475196: contains position (103.818,1.29434) twice
+warning building way geometry for way 180475196: contains position (103.818,1.29435) twice
+warning building way geometry for way 180475196: contains position (103.818,1.29434) twice
+warning building way geometry for way 180475196: contains position (103.818,1.29434) twice
+warning building way geometry for way 180475196: contains position (103.818,1.29435) twice
+warning building way geometry for way 180618536: contains position (103.819,1.2966) twice
+warning building way geometry for way 180618537: contains position (103.82,1.29609) twice
+warning building way geometry for way 180618544: contains position (103.82,1.2973) twice
+warning building way geometry for way 180618553: contains position (103.819,1.29786) twice
+warning building way geometry for way 180618553: contains position (103.82,1.29787) twice
+warning building way geometry for way 180618556: contains position (103.819,1.29848) twice
+warning building way geometry for way 180618557: contains position (103.82,1.29768) twice
+warning building way geometry for way 180618557: contains position (103.82,1.29771) twice
+warning building way geometry for way 180618558: contains position (103.82,1.29707) twice
+warning building way geometry for way 180618574: contains position (103.817,1.29836) twice
+warning building way geometry for way 180659419: contains position (103.606,1.42706) twice
+warning building way geometry for way 180659427: contains position (103.605,1.4287) twice
+error building way geometry for way 180659432: must at least contain two nodes
+Ignoring illegal geometry for way 180659432.
+Ignoring illegal geometry for way 180659470.
+warning building way geometry for way 184132053: contains position (103.654,1.46976) twice
+warning building way geometry for way 184132053: contains position (103.653,1.46449) twice
+warning building way geometry for way 185278435: contains position (103.876,1.38929) twice
+warning building way geometry for way 185761527: contains position (103.836,1.24077) twice
+warning building way geometry for way 186775639: contains position (103.709,1.34482) twice
+warning building way geometry for way 187888632: contains position (103.868,1.29253) twice
+warning building way geometry for way 188366224: contains position (103.851,1.28309) twice
+warning building way geometry for way 188366224: contains position (103.851,1.28304) twice
+warning building way geometry for way 188366224: contains position (103.851,1.28306) twice
+warning building way geometry for way 188366227: contains position (103.851,1.28311) twice
+warning building way geometry for way 188366233: contains position (103.852,1.28319) twice
+warning building way geometry for way 188366233: contains position (103.852,1.28319) twice
+warning building way geometry for way 188366233: contains position (103.852,1.28323) twice
+warning building way geometry for way 188366237: contains position (103.851,1.2832) twice
+warning building way geometry for way 188366237: contains position (103.851,1.28323) twice
+warning building way geometry for way 190404948: contains position (103.787,1.38212) twice
+warning building way geometry for way 190944931: contains position (103.863,1.30292) twice
+warning building way geometry for way 193421709: contains position (103.743,1.38504) twice
+warning building way geometry for way 193421713: contains position (103.746,1.3844) twice
+warning building way geometry for way 193421737: contains position (103.742,1.38142) twice
+warning building way geometry for way 193421737: contains position (103.742,1.38153) twice
+warning building way geometry for way 193421738: contains position (103.742,1.38115) twice
+warning building way geometry for way 193421758: contains position (103.739,1.38057) twice
+warning building way geometry for way 193421758: contains position (103.74,1.3806) twice
+warning building way geometry for way 193421766: contains position (103.742,1.38515) twice
+warning building way geometry for way 193421766: contains position (103.742,1.38519) twice
+warning building way geometry for way 193421766: contains position (103.742,1.38526) twice
+warning building way geometry for way 193421785: contains position (103.738,1.3797) twice
+warning building way geometry for way 193421811: contains position (103.736,1.38042) twice
+warning building way geometry for way 193421811: contains position (103.736,1.3805) twice
+warning building way geometry for way 194785068: contains position (103.85,1.37647) twice
+warning building way geometry for way 198458277: contains position (103.851,1.36544) twice
+warning building way geometry for way 198458277: contains position (103.851,1.36544) twice
+warning building way geometry for way 198458324: contains position (103.851,1.37541) twice
+warning building way geometry for way 198458324: contains position (103.851,1.37554) twice
+warning building way geometry for way 198458324: contains position (103.851,1.37476) twice
+warning building way geometry for way 198458324: contains position (103.851,1.37453) twice
+warning building way geometry for way 198458325: contains position (103.835,1.36831) twice
+warning building way geometry for way 201275599: contains position (103.851,1.31244) twice
+warning building way geometry for way 201275599: contains position (103.85,1.31226) twice
+warning building way geometry for way 201275599: contains position (103.85,1.31211) twice
+warning building way geometry for way 201275599: contains position (103.85,1.31211) twice
+error building way geometry for way 201591895: must at least contain two nodes
+Ignoring illegal geometry for way 201591895.
+warning building way geometry for way 201766980: contains position (103.8,1.27899) twice
+warning building way geometry for way 201904052: contains position (103.886,1.32381) twice
+warning building way geometry for way 201924380: contains position (103.888,1.32153) twice
+warning building way geometry for way 201940958: contains position (103.764,1.46245) twice
+warning building way geometry for way 202410853: contains position (103.833,1.37045) twice
+warning building way geometry for way 205818561: contains position (103.886,1.32411) twice
+warning building way geometry for way 206797411: contains position (103.752,1.36254) twice
+warning building way geometry for way 208577326: contains position (103.886,1.32412) twice
+error building way geometry for way 210332781: must at least contain two nodes
+Ignoring illegal geometry for way 210332781.
+Ignoring illegal geometry for way 210334796.
+Ignoring illegal geometry for way 211284068.
+error building way geometry for way 211566482: must at least contain two nodes
+Ignoring illegal geometry for way 211566482.
+warning building way geometry for way 211567605: contains position (103.752,1.45934) twice
+warning building way geometry for way 211569124: contains position (103.785,1.47034) twice
+warning building way geometry for way 211569124: contains position (103.785,1.47034) twice
+warning building way geometry for way 213582595: contains position (103.963,1.36529) twice
+warning building way geometry for way 213582709: contains position (103.978,1.31613) twice
+warning building way geometry for way 213582756: contains position (103.974,1.31843) twice
+warning building way geometry for way 213582756: contains position (103.974,1.31815) twice
+warning building way geometry for way 213585964: contains position (103.964,1.36753) twice
+warning building way geometry for way 213585971: contains position (103.963,1.36894) twice
+warning building way geometry for way 213593361: contains position (103.962,1.36696) twice
+warning building way geometry for way 213593393: contains position (103.962,1.37071) twice
+warning building way geometry for way 213593439: contains position (103.961,1.36567) twice
+warning building way geometry for way 213593439: contains position (103.961,1.36499) twice
+warning building way geometry for way 213593439: contains position (103.961,1.36498) twice
+warning building way geometry for way 213593442: contains position (103.963,1.37235) twice
+warning building way geometry for way 213593442: contains position (103.962,1.37245) twice
+warning building way geometry for way 213598426: contains position (103.962,1.37473) twice
+warning building way geometry for way 213598426: contains position (103.962,1.37482) twice
+warning building way geometry for way 213638881: contains position (103.955,1.3685) twice
+warning building way geometry for way 213638883: contains position (103.955,1.36902) twice
+warning building way geometry for way 213638885: contains position (103.954,1.36794) twice
+warning building way geometry for way 213638898: contains position (103.956,1.37243) twice
+warning building way geometry for way 213638943: contains position (103.96,1.37137) twice
+warning building way geometry for way 213638943: contains position (103.959,1.37148) twice
+warning building way geometry for way 213638994: contains position (103.956,1.37096) twice
+warning building way geometry for way 213638996: contains position (103.955,1.37425) twice
+warning building way geometry for way 213639030: contains position (103.958,1.37327) twice
+warning building way geometry for way 213639030: contains position (103.958,1.37317) twice
+warning building way geometry for way 213639031: contains position (103.959,1.37266) twice
+warning building way geometry for way 213639031: contains position (103.959,1.37318) twice
+warning building way geometry for way 213642015: contains position (103.937,1.37663) twice
+warning building way geometry for way 218214915: contains position (103.913,1.39271) twice
+warning building way geometry for way 218215118: contains position (103.902,1.40212) twice
+warning building way geometry for way 218215123: contains position (103.902,1.40316) twice
+warning building way geometry for way 218215170: contains position (103.906,1.40523) twice
+warning building way geometry for way 218215330: contains position (103.904,1.40088) twice
+warning building way geometry for way 218215348: contains position (103.909,1.39457) twice
+warning building way geometry for way 220824173: contains position (103.775,1.38061) twice
+warning building way geometry for way 220824344: contains position (103.771,1.38355) twice
+warning building way geometry for way 220824657: contains position (103.768,1.38504) twice
+warning building way geometry for way 220824657: contains position (103.768,1.38561) twice
+warning building way geometry for way 222971614: contains position (103.908,1.30534) twice
+Ignoring illegal geometry for way 229630147.
+warning building way geometry for way 229864735: contains position (103.953,1.34409) twice
+warning building way geometry for way 230626479: contains position (103.767,1.30386) twice
+Ignoring illegal geometry for way 231290543.
+warning building way geometry for way 231917895: contains position (103.84,1.34078) twice
+warning building way geometry for way 231917967: contains position (103.885,1.36013) twice
+warning building way geometry for way 231929388: contains position (103.849,1.30412) twice
+warning building way geometry for way 231929388: contains position (103.849,1.30412) twice
+warning building way geometry for way 231929393: contains position (103.849,1.30342) twice
+warning building way geometry for way 231929394: contains position (103.848,1.30378) twice
+warning building way geometry for way 231929394: contains position (103.848,1.30378) twice
+error building way geometry for way 232556065: must at least contain two nodes
+Ignoring illegal geometry for way 232556065.
+warning building way geometry for way 235317707: contains position (103.83,1.30955) twice
+warning building way geometry for way 235915074: contains position (103.746,1.3832) twice
+warning building way geometry for way 235915103: contains position (103.743,1.37873) twice
+warning building way geometry for way 235915103: contains position (103.743,1.37873) twice
+warning building way geometry for way 235915126: contains position (103.74,1.37856) twice
+warning building way geometry for way 235915151: contains position (103.755,1.38302) twice
+warning building way geometry for way 235915151: contains position (103.756,1.38313) twice
+warning building way geometry for way 235915152: contains position (103.746,1.38207) twice
+warning building way geometry for way 235915152: contains position (103.747,1.38214) twice
+warning building way geometry for way 235915195: contains position (103.753,1.38472) twice
+warning building way geometry for way 235915195: contains position (103.754,1.3852) twice
+warning building way geometry for way 235916012: contains position (103.765,1.38898) twice
+warning building way geometry for way 238927525: contains position (103.742,1.39448) twice
+warning building way geometry for way 238927540: contains position (103.746,1.39539) twice
+warning building way geometry for way 238927554: contains position (103.744,1.39901) twice
+warning building way geometry for way 238927580: contains position (103.75,1.39727) twice
+warning building way geometry for way 238927583: contains position (103.748,1.3978) twice
+warning building way geometry for way 238927584: contains position (103.749,1.39782) twice
+warning building way geometry for way 238927586: contains position (103.75,1.39835) twice
+warning building way geometry for way 238927588: contains position (103.749,1.39862) twice
+warning building way geometry for way 238927684: contains position (103.747,1.39042) twice
+warning building way geometry for way 238927696: contains position (103.746,1.39358) twice
+warning building way geometry for way 238927713: contains position (103.748,1.39459) twice
+warning building way geometry for way 238927720: contains position (103.75,1.39535) twice
+warning building way geometry for way 238927742: contains position (103.749,1.39934) twice
+warning building way geometry for way 238927748: contains position (103.747,1.40238) twice
+warning building way geometry for way 238927750: contains position (103.747,1.39364) twice
+warning building way geometry for way 238927809: contains position (103.747,1.39953) twice
+warning building way geometry for way 238927813: contains position (103.741,1.39082) twice
+warning building way geometry for way 238927813: contains position (103.742,1.39072) twice
+warning building way geometry for way 238927813: contains position (103.741,1.38999) twice
+warning building way geometry for way 238932773: contains position (103.78,1.29092) twice
+warning building way geometry for way 240628901: contains position (103.902,1.32947) twice
+warning building way geometry for way 240628901: contains position (103.901,1.32998) twice
+warning building way geometry for way 240628901: contains position (103.902,1.32966) twice
+warning building way geometry for way 240629377: contains position (103.902,1.32981) twice
+warning building way geometry for way 240646589: contains position (103.898,1.33195) twice
+warning building way geometry for way 240654783: contains position (103.899,1.33183) twice
+warning building way geometry for way 241247159: contains position (103.868,1.35167) twice
+warning building way geometry for way 241260232: contains position (103.813,1.30189) twice
+warning building way geometry for way 241260240: contains position (103.812,1.3057) twice
+warning building way geometry for way 241265471: contains position (103.77,1.29729) twice
+warning building way geometry for way 241411564: contains position (103.8,1.28339) twice
+warning building way geometry for way 241411566: contains position (103.798,1.28418) twice
+warning building way geometry for way 241411567: contains position (103.798,1.28434) twice
+warning building way geometry for way 241411765: contains position (103.805,1.2895) twice
+warning building way geometry for way 241518067: contains position (103.781,1.29053) twice
+warning building way geometry for way 241518067: contains position (103.781,1.29053) twice
+warning building way geometry for way 241518781: contains position (103.782,1.29008) twice
+warning building way geometry for way 241519902: contains position (103.78,1.29018) twice
+warning building way geometry for way 241520256: contains position (103.78,1.29016) twice
+warning building way geometry for way 241520256: contains position (103.78,1.2902) twice
+warning building way geometry for way 241520256: contains position (103.78,1.29018) twice
+warning building way geometry for way 241520256: contains position (103.78,1.29015) twice
+warning building way geometry for way 241579729: contains position (103.81,1.30609) twice
+warning building way geometry for way 241883375: contains position (103.779,1.30358) twice
+warning building way geometry for way 243297522: contains position (103.765,1.30853) twice
+warning building way geometry for way 243297527: contains position (103.764,1.3089) twice
+warning building way geometry for way 243297528: contains position (103.763,1.30842) twice
+warning building way geometry for way 243297528: contains position (103.763,1.30832) twice
+warning building way geometry for way 244373698: contains position (103.759,1.31176) twice
+error building way geometry for way 249853085: must at least contain two nodes
+Ignoring illegal geometry for way 249853085.
+warning building way geometry for way 251029128: contains position (103.908,1.30832) twice
+warning building way geometry for way 252391267: contains position (103.629,1.30325) twice
+warning building way geometry for way 252391708: contains position (103.636,1.29615) twice
+warning building way geometry for way 252391711: contains position (103.622,1.29297) twice
+warning building way geometry for way 252391728: contains position (103.978,1.36688) twice
+warning building way geometry for way 252391743: contains position (103.93,1.36786) twice
+warning building way geometry for way 252391746: contains position (103.907,1.33732) twice
+warning building way geometry for way 252391749: contains position (103.629,1.28225) twice
+warning building way geometry for way 252391749: contains position (103.628,1.2823) twice
+warning building way geometry for way 252398796: contains position (103.706,1.36919) twice
+warning building way geometry for way 252802808: contains position (103.798,1.3153) twice
+warning building way geometry for way 254816033: contains position (103.855,1.29518) twice
+warning building way geometry for way 254816055: contains position (103.855,1.29518) twice
+warning building way geometry for way 255170436: contains position (103.826,1.30089) twice
+warning building way geometry for way 255170459: contains position (103.821,1.29952) twice
+warning building way geometry for way 255170469: contains position (103.828,1.30188) twice
+warning building way geometry for way 255170490: contains position (103.826,1.29635) twice
+warning building way geometry for way 255170500: contains position (103.826,1.2971) twice
+warning building way geometry for way 255170500: contains position (103.826,1.29712) twice
+warning building way geometry for way 255170500: contains position (103.826,1.29698) twice
+warning building way geometry for way 255170517: contains position (103.82,1.29567) twice
+warning building way geometry for way 255170539: contains position (103.826,1.29776) twice
+warning building way geometry for way 255170553: contains position (103.82,1.2959) twice
+warning building way geometry for way 255170555: contains position (103.825,1.30053) twice
+warning building way geometry for way 255170558: contains position (103.821,1.29812) twice
+warning building way geometry for way 255170558: contains position (103.821,1.29812) twice
+warning building way geometry for way 255170577: contains position (103.823,1.29851) twice
+warning building way geometry for way 255170579: contains position (103.821,1.30006) twice
+warning building way geometry for way 255170585: contains position (103.821,1.29944) twice
+warning building way geometry for way 255170589: contains position (103.821,1.29802) twice
+warning building way geometry for way 255170593: contains position (103.822,1.29693) twice
+warning building way geometry for way 255170596: contains position (103.825,1.30085) twice
+warning building way geometry for way 255170598: contains position (103.821,1.29776) twice
+warning building way geometry for way 255170599: contains position (103.823,1.29813) twice
+warning building way geometry for way 255170606: contains position (103.822,1.2998) twice
+warning building way geometry for way 255170608: contains position (103.821,1.29918) twice
+warning building way geometry for way 255170608: contains position (103.821,1.29918) twice
+warning building way geometry for way 255170610: contains position (103.826,1.30227) twice
+warning building way geometry for way 255170611: contains position (103.826,1.30284) twice
+warning building way geometry for way 255170758: contains position (103.821,1.29699) twice
+warning building way geometry for way 255170758: contains position (103.821,1.2971) twice
+warning building way geometry for way 255170760: contains position (103.826,1.29994) twice
+warning building way geometry for way 255170760: contains position (103.826,1.29996) twice
+warning building way geometry for way 255170761: contains position (103.826,1.29997) twice
+warning building way geometry for way 255170761: contains position (103.826,1.3) twice
+warning building way geometry for way 255170762: contains position (103.826,1.29974) twice
+warning building way geometry for way 255170762: contains position (103.826,1.29976) twice
+warning building way geometry for way 255170789: contains position (103.826,1.30089) twice
+warning building way geometry for way 255170809: contains position (103.827,1.29944) twice
+warning building way geometry for way 255170826: contains position (103.828,1.30123) twice
+warning building way geometry for way 255909623: contains position (103.822,1.30153) twice
+warning building way geometry for way 255909632: contains position (103.819,1.29925) twice
+warning building way geometry for way 255909638: contains position (103.822,1.30025) twice
+warning building way geometry for way 255909640: contains position (103.823,1.30192) twice
+warning building way geometry for way 255909641: contains position (103.819,1.30064) twice
+warning building way geometry for way 255909643: contains position (103.821,1.30081) twice
+warning building way geometry for way 255909645: contains position (103.823,1.3006) twice
+warning building way geometry for way 255909645: contains position (103.823,1.30061) twice
+warning building way geometry for way 255909650: contains position (103.82,1.30093) twice
+warning building way geometry for way 255909653: contains position (103.822,1.30262) twice
+warning building way geometry for way 255909653: contains position (103.822,1.3025) twice
+warning building way geometry for way 255909655: contains position (103.818,1.30004) twice
+warning building way geometry for way 255909655: contains position (103.818,1.30004) twice
+warning building way geometry for way 255909663: contains position (103.82,1.30241) twice
+warning building way geometry for way 255909667: contains position (103.824,1.30017) twice
+warning building way geometry for way 255909669: contains position (103.822,1.30092) twice
+warning building way geometry for way 255909671: contains position (103.82,1.30021) twice
+warning building way geometry for way 255909671: contains position (103.82,1.30026) twice
+warning building way geometry for way 255909672: contains position (103.823,1.30309) twice
+warning building way geometry for way 256153695: contains position (103.853,1.28938) twice
+warning building way geometry for way 256159935: contains position (103.7,1.35168) twice
+warning building way geometry for way 256275064: contains position (103.855,1.28924) twice
+warning building way geometry for way 256275064: contains position (103.855,1.28923) twice
+warning building way geometry for way 256275069: contains position (103.855,1.28917) twice
+warning building way geometry for way 256275069: contains position (103.855,1.2892) twice
+warning building way geometry for way 256275069: contains position (103.855,1.28919) twice
+warning building way geometry for way 256275086: contains position (103.855,1.28911) twice
+warning building way geometry for way 256974019: contains position (103.836,1.3086) twice
+warning building way geometry for way 256974025: contains position (103.839,1.30821) twice
+warning building way geometry for way 256974025: contains position (103.839,1.30825) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30853) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30848) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30847) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30844) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30838) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30834) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30825) twice
+warning building way geometry for way 256974025: contains position (103.839,1.30821) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30811) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30803) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30797) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30795) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30788) twice
+warning building way geometry for way 256974025: contains position (103.84,1.30788) twice
+warning building way geometry for way 256974025: contains position (103.84,1.308) twice
+warning building way geometry for way 256974033: contains position (103.838,1.30908) twice
+warning building way geometry for way 256974033: contains position (103.838,1.30927) twice
+warning building way geometry for way 256974047: contains position (103.842,1.31004) twice
+warning building way geometry for way 256974048: contains position (103.836,1.30979) twice
+warning building way geometry for way 256974059: contains position (103.838,1.30857) twice
+warning building way geometry for way 256974059: contains position (103.838,1.30851) twice
+warning building way geometry for way 256974059: contains position (103.838,1.30858) twice
+warning building way geometry for way 256974059: contains position (103.838,1.30863) twice
+warning building way geometry for way 256974062: contains position (103.836,1.30905) twice
+warning building way geometry for way 256974333: contains position (103.839,1.30558) twice
+warning building way geometry for way 256974333: contains position (103.839,1.30569) twice
+warning building way geometry for way 256974381: contains position (103.837,1.30569) twice
+warning building way geometry for way 256974381: contains position (103.837,1.30564) twice
+warning building way geometry for way 256974381: contains position (103.837,1.30565) twice
+warning building way geometry for way 256974381: contains position (103.837,1.30571) twice
+warning building way geometry for way 256974381: contains position (103.837,1.3057) twice
+warning building way geometry for way 256974381: contains position (103.837,1.3057) twice
+warning building way geometry for way 256974381: contains position (103.837,1.30571) twice
+warning building way geometry for way 256974381: contains position (103.837,1.30574) twice
+warning building way geometry for way 256974381: contains position (103.837,1.30578) twice
+warning building way geometry for way 256974381: contains position (103.837,1.30578) twice
+warning building way geometry for way 256974381: contains position (103.837,1.30581) twice
+warning building way geometry for way 256974381: contains position (103.837,1.30577) twice
+warning building way geometry for way 256974389: contains position (103.838,1.30572) twice
+warning building way geometry for way 256974389: contains position (103.838,1.30564) twice
+warning building way geometry for way 256974389: contains position (103.838,1.30566) twice
+warning building way geometry for way 256974389: contains position (103.838,1.30556) twice
+warning building way geometry for way 257040770: contains position (103.836,1.31209) twice
+warning building way geometry for way 257040771: contains position (103.834,1.31043) twice
+warning building way geometry for way 257750354: contains position (103.909,1.39097) twice
+warning building way geometry for way 257750356: contains position (103.907,1.39235) twice
+warning building way geometry for way 257750356: contains position (103.907,1.39266) twice
+warning building way geometry for way 258412351: contains position (103.902,1.39362) twice
+warning building way geometry for way 260472511: contains position (103.851,1.31956) twice
+warning building way geometry for way 260866880: contains position (103.838,1.32359) twice
+warning building way geometry for way 260866881: contains position (103.838,1.3237) twice
+warning building way geometry for way 261019201: contains position (103.849,1.31944) twice
+warning building way geometry for way 261169662: contains position (103.838,1.32117) twice
+warning building way geometry for way 261355133: contains position (103.818,1.30965) twice
+Ignoring illegal geometry for way 263038899.
+Ignoring illegal geometry for way 266258721.
+Ignoring illegal geometry for way 266258722.
+error building way geometry for way 266258746: must at least contain two nodes
+Ignoring illegal geometry for way 266258746.
+error building way geometry for way 266258748: must at least contain two nodes
+Ignoring illegal geometry for way 266258748.
+Ignoring illegal geometry for way 266258765.
+Ignoring illegal geometry for way 268533440.
+error building way geometry for way 268824373: must at least contain two nodes
+Ignoring illegal geometry for way 268824373.
+error building way geometry for way 269806802: must at least contain two nodes
+Ignoring illegal geometry for way 269806802.
+warning building way geometry for way 269909056: contains position (103.845,1.28182) twice
+warning building way geometry for way 270465586: contains position (103.807,1.27056) twice
+warning building way geometry for way 271798539: contains position (103.843,1.33207) twice
+error building way geometry for way 273197747: must at least contain two nodes
+Ignoring illegal geometry for way 273197747.
+error building way geometry for way 275861361: must at least contain two nodes
+Ignoring illegal geometry for way 275861361.
+error building way geometry for way 275861452: must at least contain two nodes
+Ignoring illegal geometry for way 275861452.
+warning building way geometry for way 276519232: contains position (103.9,1.39053) twice
+warning building way geometry for way 276519232: contains position (103.9,1.3906) twice
+warning building way geometry for way 276519233: contains position (103.901,1.39072) twice
+warning building way geometry for way 276519244: contains position (103.902,1.38881) twice
+warning building way geometry for way 278144085: contains position (103.769,1.43624) twice
+error building way geometry for way 278752670: must at least contain two nodes
+Ignoring illegal geometry for way 278752670.
+warning building way geometry for way 279273742: contains position (103.803,1.44429) twice
+warning building way geometry for way 279273742: contains position (103.803,1.44425) twice
+warning building way geometry for way 281481994: contains position (103.83,1.30938) twice
+warning building way geometry for way 281484717: contains position (103.828,1.30913) twice
+warning building way geometry for way 281484717: contains position (103.828,1.30894) twice
+warning building way geometry for way 281485593: contains position (103.827,1.3093) twice
+warning building way geometry for way 281485593: contains position (103.827,1.30893) twice
+warning building way geometry for way 281498141: contains position (103.827,1.30984) twice
+warning building way geometry for way 281498141: contains position (103.827,1.30994) twice
+warning building way geometry for way 281498141: contains position (103.827,1.30993) twice
+warning building way geometry for way 281498141: contains position (103.827,1.3099) twice
+warning building way geometry for way 281512270: contains position (103.83,1.31063) twice
+warning building way geometry for way 281512270: contains position (103.83,1.31061) twice
+warning building way geometry for way 281512270: contains position (103.829,1.31056) twice
+warning building way geometry for way 281512272: contains position (103.829,1.30956) twice
+warning building way geometry for way 281512277: contains position (103.83,1.31061) twice
+error building way geometry for way 288743329: must at least contain two nodes
+Ignoring illegal geometry for way 288743329.
+Ignoring illegal geometry for way 290146434.
+Ignoring illegal geometry for way 291748369.
+warning building way geometry for way 292420460: contains position (103.836,1.32479) twice
+warning building way geometry for way 292420462: contains position (103.856,1.33677) twice
+warning building way geometry for way 292420477: contains position (103.881,1.37742) twice
+warning building way geometry for way 292420572: contains position (103.92,1.32924) twice
+warning building way geometry for way 292420572: contains position (103.92,1.32962) twice
+warning building way geometry for way 292420573: contains position (103.935,1.31866) twice
+warning building way geometry for way 292420574: contains position (103.935,1.334) twice
+warning building way geometry for way 292420578: contains position (103.821,1.44508) twice
+warning building way geometry for way 292420579: contains position (103.784,1.31742) twice
+warning building way geometry for way 292420580: contains position (103.889,1.3732) twice
+warning building way geometry for way 292420580: contains position (103.889,1.37316) twice
+warning building way geometry for way 292420580: contains position (103.889,1.37301) twice
+warning building way geometry for way 292420581: contains position (103.848,1.33673) twice
+warning building way geometry for way 292420581: contains position (103.847,1.33728) twice
+warning building way geometry for way 292420585: contains position (103.8,1.44326) twice
+warning building way geometry for way 293503107: contains position (103.917,1.30975) twice
+warning building way geometry for way 293503148: contains position (103.771,1.3685) twice
+warning building way geometry for way 293503148: contains position (103.771,1.36853) twice
+warning building way geometry for way 293503149: contains position (103.927,1.3087) twice
+warning building way geometry for way 295367639: contains position (103.87,1.32436) twice
+warning building way geometry for way 295367655: contains position (103.851,1.31686) twice
+warning building way geometry for way 296602293: contains position (103.863,1.35341) twice
+error building way geometry for way 296730635: must at least contain two nodes
+Ignoring illegal geometry for way 296730635.
+warning building way geometry for way 298030003: contains position (103.823,1.30549) twice
+warning building way geometry for way 298304567: contains position (103.824,1.30844) twice
+warning building way geometry for way 298304568: contains position (103.825,1.30866) twice
+warning building way geometry for way 298331100: contains position (103.836,1.3131) twice
+warning building way geometry for way 299214676: contains position (103.769,1.4473) twice
+warning building way geometry for way 302094605: contains position (103.887,1.38925) twice
+warning building way geometry for way 302094610: contains position (103.9,1.39318) twice
+warning building way geometry for way 302094633: contains position (103.889,1.3915) twice
+warning building way geometry for way 302094633: contains position (103.889,1.39165) twice
+warning building way geometry for way 302094641: contains position (103.889,1.39104) twice
+warning building way geometry for way 302094650: contains position (103.888,1.39184) twice
+warning building way geometry for way 302094652: contains position (103.89,1.39319) twice
+warning building way geometry for way 302094656: contains position (103.888,1.39404) twice
+warning building way geometry for way 302094665: contains position (103.89,1.39377) twice
+warning building way geometry for way 302094667: contains position (103.888,1.39265) twice
+warning building way geometry for way 302888279: contains position (103.894,1.38041) twice
+warning building way geometry for way 302888283: contains position (103.895,1.38587) twice
+warning building way geometry for way 302888283: contains position (103.895,1.38592) twice
+warning building way geometry for way 302888284: contains position (103.894,1.38393) twice
+warning building way geometry for way 302888287: contains position (103.894,1.38117) twice
+warning building way geometry for way 302888298: contains position (103.894,1.38227) twice
+warning building way geometry for way 302888299: contains position (103.894,1.38239) twice
+warning building way geometry for way 302888300: contains position (103.894,1.38332) twice
+warning building way geometry for way 302888303: contains position (103.894,1.38192) twice
+warning building way geometry for way 302888304: contains position (103.894,1.38289) twice
+warning building way geometry for way 302888305: contains position (103.894,1.38285) twice
+Ignoring illegal geometry for way 303394260.
+error building way geometry for way 308052358: must at least contain two nodes
+Ignoring illegal geometry for way 308052358.
+Ignoring illegal geometry for way 310641692.
+warning building way geometry for way 310947777: contains position (103.905,1.30924) twice
+warning building way geometry for way 312697082: contains position (103.836,1.33229) twice
+warning building way geometry for way 313242797: contains position (103.906,1.3114) twice
+warning building way geometry for way 313242798: contains position (103.906,1.31125) twice
+warning building way geometry for way 313242798: contains position (103.906,1.31132) twice
+warning building way geometry for way 313243185: contains position (103.906,1.31051) twice
+warning building way geometry for way 313362133: contains position (103.746,1.30146) twice
+warning building way geometry for way 313362157: contains position (103.746,1.30107) twice
+warning building way geometry for way 313362168: contains position (103.743,1.3028) twice
+error building way geometry for way 317764379: must at least contain two nodes
+Ignoring illegal geometry for way 317764379.
+error building way geometry for way 317764389: must at least contain two nodes
+Ignoring illegal geometry for way 317764389.
+error building way geometry for way 317764392: must at least contain two nodes
+Ignoring illegal geometry for way 317764392.
+error building way geometry for way 317764393: must at least contain two nodes
+Ignoring illegal geometry for way 317764393.
+warning building way geometry for way 319987004: contains position (103.989,1.35923) twice
+warning building way geometry for way 319987004: contains position (103.989,1.35919) twice
+warning building way geometry for way 319987004: contains position (103.989,1.3592) twice
+warning building way geometry for way 320477519: contains position (103.827,1.31152) twice
+warning building way geometry for way 320477519: contains position (103.827,1.31149) twice
+warning building way geometry for way 320477519: contains position (103.827,1.3115) twice
+warning building way geometry for way 320477519: contains position (103.827,1.31149) twice
+warning building way geometry for way 320477519: contains position (103.827,1.31148) twice
+warning building way geometry for way 320477519: contains position (103.827,1.31148) twice
+warning building way geometry for way 320480155: contains position (103.819,1.25777) twice
+warning building way geometry for way 325897206: contains position (103.778,1.29122) twice
+warning building way geometry for way 325897212: contains position (103.773,1.28335) twice
+warning building way geometry for way 325897214: contains position (103.778,1.29122) twice
+warning building way geometry for way 326926574: contains position (103.845,1.28506) twice
+warning building way geometry for way 327192479: contains position (103.865,1.3645) twice
+warning building way geometry for way 327590774: contains position (103.799,1.27433) twice
+Ignoring illegal geometry for way 330069895.
+warning building way geometry for way 333972278: contains node -884526569 twice
+warning building way geometry for way 334111697: contains position (103.925,1.30782) twice
+warning building way geometry for way 334113341: contains position (103.902,1.30888) twice
+warning building way geometry for way 334113448: contains position (103.898,1.30591) twice
+warning building way geometry for way 334113448: contains position (103.898,1.30576) twice
+warning building way geometry for way 334113449: contains position (103.898,1.30618) twice
+warning building way geometry for way 334113464: contains position (103.901,1.30762) twice
+warning building way geometry for way 334113474: contains position (103.904,1.31395) twice
+warning building way geometry for way 334113504: contains position (103.901,1.30627) twice
+warning building way geometry for way 335763933: contains position (103.79,1.44045) twice
+warning building way geometry for way 346693450: contains position (103.907,1.39138) twice
+warning building way geometry for way 349924287: contains position (103.812,1.33006) twice
+warning building way geometry for way 349924287: contains position (103.812,1.32989) twice
+warning building way geometry for way 361077925: contains position (103.91,1.32313) twice
+warning building way geometry for way 361108617: contains position (103.858,1.31104) twice
+warning building way geometry for way 361108617: contains position (103.857,1.31122) twice
+warning building way geometry for way 361108617: contains position (103.857,1.31114) twice
+warning building way geometry for way 361108617: contains position (103.857,1.31115) twice
+warning building way geometry for way 361108617: contains position (103.857,1.31112) twice
+warning building way geometry for way 361108617: contains position (103.857,1.311) twice
+warning building way geometry for way 361108617: contains position (103.857,1.31089) twice
+warning building way geometry for way 361108617: contains position (103.858,1.31094) twice
+warning building way geometry for way 361108617: contains position (103.858,1.31099) twice
+warning building way geometry for way 361108618: contains position (103.858,1.31084) twice
+warning building way geometry for way 361108619: contains position (103.858,1.31049) twice
+warning building way geometry for way 361108619: contains position (103.858,1.31064) twice
+warning building way geometry for way 361108619: contains position (103.858,1.31067) twice
+warning building way geometry for way 364278889: contains position (103.769,1.47518) twice
+error building way geometry for way 366766972: must at least contain two nodes
+Ignoring illegal geometry for way 366766972.
+Ignoring illegal geometry for way 366766974.
+error building way geometry for way 366767289: must at least contain two nodes
+Ignoring illegal geometry for way 366767289.
+Ignoring illegal geometry for way 366774084.
+warning building way geometry for way 366774089: contains position (103.769,1.47996) twice
+Ignoring illegal geometry for way 366775436.
+Ignoring illegal geometry for way 366779365.
+Ignoring illegal geometry for way 366779366.
+Ignoring illegal geometry for way 366779371.
+Ignoring illegal geometry for way 367044924.
+Ignoring illegal geometry for way 367048585.
+Ignoring illegal geometry for way 367048592.
+warning building way geometry for way 367203193: contains position (103.771,1.46992) twice
+warning building way geometry for way 369211780: contains position (103.764,1.46969) twice
+warning building way geometry for way 369327051: contains position (103.758,1.47758) twice
+Ignoring illegal geometry for way 369332660.
+Ignoring illegal geometry for way 369332661.
+Ignoring illegal geometry for way 369449865.
+error building way geometry for way 369449866: must at least contain two nodes
+Ignoring illegal geometry for way 369449866.
+error building way geometry for way 369611359: must at least contain two nodes
+Ignoring illegal geometry for way 369611359.
+error building way geometry for way 369611362: must at least contain two nodes
+Ignoring illegal geometry for way 369611362.
+Ignoring illegal geometry for way 372071639.
+warning building way geometry for way 372071843: contains position (103.818,1.31295) twice
+warning building way geometry for way 372071851: contains position (103.819,1.31319) twice
+warning building way geometry for way 372071866: contains position (103.823,1.30719) twice
+warning building way geometry for way 372071866: contains position (103.823,1.30704) twice
+warning building way geometry for way 372071912: contains position (103.825,1.3188) twice
+warning building way geometry for way 372072121: contains position (103.822,1.31481) twice
+warning building way geometry for way 372072121: contains position (103.822,1.31476) twice
+Ignoring illegal geometry for way 372072134.
+warning building way geometry for way 372072247: contains position (103.822,1.32092) twice
+warning building way geometry for way 372072352: contains position (103.821,1.32146) twice
+warning building way geometry for way 374844590: contains position (103.911,1.42099) twice
+warning building way geometry for way 380186388: contains position (103.849,1.37805) twice
+Ignoring illegal geometry for way 380599830.
+Ignoring illegal geometry for way 381260924.
+warning building way geometry for way 383249795: contains position (103.698,1.33843) twice
+warning building way geometry for way 383249796: contains position (103.698,1.33849) twice
+warning building way geometry for way 383249797: contains position (103.698,1.33886) twice
+warning building way geometry for way 383249799: contains position (103.697,1.33848) twice
+warning building way geometry for way 386232478: contains position (103.614,1.42333) twice
+warning building way geometry for way 386232478: contains position (103.614,1.42329) twice
+error building way geometry for way 386236517: must at least contain two nodes
+Ignoring illegal geometry for way 386236517.
+Ignoring illegal geometry for way 386447663.
+error building way geometry for way 386449688: must at least contain two nodes
+Ignoring illegal geometry for way 386449688.
+Ignoring illegal geometry for way 386579259.
+Ignoring illegal geometry for way 388268064.
+warning building way geometry for way 388268791: contains position (103.915,1.32834) twice
+warning building way geometry for way 390229984: contains position (103.755,1.46732) twice
+warning building way geometry for way 390603696: contains position (103.751,1.46556) twice
+warning building way geometry for way 392447597: contains position (103.746,1.46661) twice
+warning building way geometry for way 392457896: contains position (103.745,1.46872) twice
+warning building way geometry for way 392778238: contains position (103.744,1.46947) twice
+warning building way geometry for way 392788100: contains position (103.746,1.4695) twice
+warning building way geometry for way 392789842: contains position (103.745,1.47075) twice
+warning building way geometry for way 392955734: contains position (103.746,1.47177) twice
+warning building way geometry for way 392980909: contains position (103.746,1.47369) twice
+warning building way geometry for way 392986493: contains position (103.745,1.47551) twice
+warning building way geometry for way 392986499: contains position (103.746,1.47545) twice
+warning building way geometry for way 392991756: contains position (103.744,1.47474) twice
+warning building way geometry for way 392991762: contains position (103.744,1.47432) twice
+warning building way geometry for way 392991769: contains position (103.744,1.47379) twice
+warning building way geometry for way 392991771: contains position (103.745,1.47386) twice

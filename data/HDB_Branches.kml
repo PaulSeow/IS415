@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>Ang Mo Kio Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 560715</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.845905078126,1.37097362642941</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bukit Batok Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 650630</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.749914624116,1.35008805005712</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bedok Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 461201</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.927349202272,1.32604906671643</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bishan Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 570512</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.849881376953,1.34962268188659</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bukit Merah Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 150166</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.817611320551,1.28306745239233</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Buona Vista Service Centre</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 270036</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.792547165122,1.30918244709052</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Choa Chu Kang Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 680309</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.745553515521,1.38510112947261</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Clementi Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 120453</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.766016575941,1.31192140745932</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chin Swee Service Centre</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 160054</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.841175552133,1.28743674885633</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Geylang Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 380118</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.887362774795,1.32000136378243</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hougang Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 530814</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.893130298882,1.37220504602015</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yishun Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 760934</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.83653879481,1.42576370345544</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punggol Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 828815</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.91346378789,1.39360657945379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pioneer Service Centre</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 640638</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.697019759656,1.3415914176516</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pasir Ris Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 510443</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.957347768267,1.36949317121406</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Queensway Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 143046</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.797793063812,1.29875086899104</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sims Drive Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 380061</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.878780473744,1.31672471144852</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sengkang Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 540118</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.901557703225,1.38493235004448</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sembawang Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 750355</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.818640803055,1.44956682482819</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tampines Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 520510</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.944457501899,1.35480312829212</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Toa Payoh Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 310190</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.847965104468,1.33297594708938</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jurong East Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 600255</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.73784096102,1.34433250789412</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jurong West Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 641518</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.718857313541,1.34513861589995</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Woodlands Branch</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - 730900</b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Description - HDB BranchService Centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.78661928863,1.43507823363976</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
